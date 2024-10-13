@@ -1,0 +1,16 @@
+name = "DeviantsCraft"
+author = "Dementore711"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f1de21725b27b44bc0c0a0e469a2891a3885d788733c560d01d3562eb320bf52"
+
+[versions]
+minecraft = "1.21.1"
+quilt = "0.26.4"
+
+[options]
+acceptable-game-versions = ["1.21"]
