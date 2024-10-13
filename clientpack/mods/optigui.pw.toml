@@ -1,13 +1,13 @@
 name = "OptiGUI"
 filename = "optigui-2.3.0-beta.5+1.21.jar"
-side = "both"
+side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "05ed637fc4d8a7561887753fac5929a04b8b4f5b"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/JuksLGBQ/versions/BUvJCGus/optigui-2.3.0-beta.5%2B1.21.jar"
+hash-format = "sha512"
+hash = "98443643cb36b6330ad46e62d01dd230dc48e412c2be33790c1d30f490227e239c3be3844538bdca21ddee2bf4f015b370d03352844bbc4d6b6ba868171d8bda"
 
 [update]
-[update.curseforge]
-file-id = 5747217
-project-id = 619986
+[update.modrinth]
+mod-id = "JuksLGBQ"
+version = "BUvJCGus"
