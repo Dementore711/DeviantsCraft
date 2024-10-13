@@ -1,0 +1,13 @@
+filename = 'svc-soundboard-0.7.0+1.21.jar'
+name = 'Voice Chat Soundboard'
+side = 'client'
+
+[download]
+hash = 'f0b453ab77c029da76ae12a9fc5006f936a4ae7b22634080aa3043097a32c18ba081d77c406b721ffb7b2c6404247577fca69f94e76f4bf53f41e579e5ece752'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/N8s60DWW/versions/TWcDjihU/svc-soundboard-0.7.0%2B1.21.jar'
+
+[update.modrinth]
+mod-id = 'N8s60DWW'
+version = 'TWcDjihU'

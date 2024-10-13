@@ -1,0 +1,13 @@
+filename = 'Multiworld-Fabric-bundle.jar'
+name = 'Multiworld'
+side = 'server'
+
+[download]
+hash = 'db7502fadd4ddb3122c5bce506ac408b5f5141017bed645870dded4c00841d76614cabff965359de475baedbd9df550128ce559a6d0fce94454ca4e809523247'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/fgvoNDL1/versions/bSP1SNPf/Multiworld-Fabric-bundle.jar'
+
+[update.modrinth]
+mod-id = 'fgvoNDL1'
+version = 'bSP1SNPf'

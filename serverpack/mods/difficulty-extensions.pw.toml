@@ -1,0 +1,13 @@
+filename = 'sihywtcamd_extensions-1.0+1.21.jar'
+name = 'SIHYWTCAMD Extensions'
+side = 'both'
+
+[download]
+hash = 'd0eb3e8d3db4c3c5c68f42f649e5f678420a4fd4f13577238b4ee61a2e619d3668156436e4cb585cb471b118631d5369fa003126c125cb1cb804c3087029713f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/AYwPB5Hm/versions/6b5To2UE/sihywtcamd_extensions-1.0%2B1.21.jar'
+
+[update.modrinth]
+mod-id = 'AYwPB5Hm'
+version = '6b5To2UE'

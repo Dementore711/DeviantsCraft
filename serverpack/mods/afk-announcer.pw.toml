@@ -1,0 +1,13 @@
+filename = 'afk-announcer-v.2.4.2.jar'
+name = 'AFK Announcer (Tracker)'
+side = 'both'
+
+[download]
+hash = 'f9a59c1fb089c930dd3b801927e7e485ce477daeda8e7b144ce822cc60e82fda01586e73be4923146682b557ceba8e5fd365274139a3b917a55e5b3c9282423c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/26qk5hxQ/versions/1NL048ad/afk-announcer-v.2.4.2.jar'
+
+[update.modrinth]
+mod-id = '26qk5hxQ'
+version = '1NL048ad'

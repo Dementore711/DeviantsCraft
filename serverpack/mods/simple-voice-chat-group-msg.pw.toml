@@ -1,0 +1,13 @@
+filename = 'VoiceChatGroupMsg-1.0.1.jar'
+name = 'Simple Voice Chat No Mic'
+side = 'server'
+
+[download]
+hash = '5e80821c3c9904c132d989d1ae970e55c5268e260514bc7df98ff5448742b8c3f53f7df2f5381e870ffdbb5e7b10de624312e61168b6646a955e115809d815b9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/FDg9nmKX/versions/7FDncIvX/VoiceChatGroupMsg-1.0.1.jar'
+
+[update.modrinth]
+mod-id = 'FDg9nmKX'
+version = '7FDncIvX'

@@ -1,0 +1,11 @@
+{
+  "general": {
+    "attackHeal": false,
+    "ignoreUndeadAttacks": false
+  },
+  "phantom": {
+    "throughBlocks": false,
+    "lightFear": true,
+    "spawnInEndCities": false
+  }
+}

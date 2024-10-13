@@ -1,0 +1,13 @@
+filename = 'lambda-1.1.0+1.21.jar'
+name = 'Lambda'
+side = 'server'
+
+[download]
+hash = 'd3a723be4f0a9a746113fde7f1615e14ba66664f866e90b9d5597aab5c7d8df99f044970e7cf30d2b309a054c5baab97db18b28d2b1bd27d38b81bbc16fe3f8f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ov5CWjKZ/versions/DqP8Ay2K/lambda-1.1.0%2B1.21.jar'
+
+[update.modrinth]
+mod-id = 'ov5CWjKZ'
+version = 'DqP8Ay2K'
