@@ -109,6 +109,10 @@ file = "config/yosbr/options.txt"
 hash = "878b7836f8237566173b22c85887212f602b6356a197452141f38690cf72a070"
 
 [[files]]
+file = "credits.txt"
+hash = "515268f8bfff2856d81c2f15d989a123ab925c47b64675580054c9361f89142e"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "3ba7d03b5b6f8a06c9bb6bfd48ee73858b6ee7cdeb51616e57e8e3cf348cf5a1"
 metafile = true
@@ -496,6 +500,11 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "51184f4b5c406dd2df58a8e2af3607baa5aca057d9e226f43294861d9b101531"
+metafile = true
+
+[[files]]
+file = "mods/nyfs-spiders.pw.toml"
+hash = "2e2a377bac55e1707df3f9b1707c0c07eb181df4c7ceb841b1a796b323f8a05b"
 metafile = true
 
 [[files]]
