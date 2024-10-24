@@ -1,6 +1,6 @@
 name = "SIHYWTCAMD"
 filename = "sihywtcamd-1.11+1.21.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/EutyxFnb/versions/c1irJpsk/sihywtcamd-1.11%2B1.21.jar"

@@ -9,6 +9,14 @@ file = "config/isxander-main-menu-credits.json"
 hash = "fc297b1084f103a9f4f0a8f85a8c70820ae7782c5a394db03d095217c9b5f4d9"
 
 [[files]]
+file = "config/wakes.json"
+hash = "932d46b7a5aca98c72913893eacbbc722306d271627d8db171644d9a8112d65e"
+
+[[files]]
+file = "config/xaerominimap_entities.json"
+hash = "7bd5294bab774cc581f104d39e9d3389233d454b5ff65855e47e719a6f89ab02"
+
+[[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
 hash = "616e09c8ff849f4a9a07165a0a3513f468469237377546b64135591fca8a0592"
 
@@ -95,14 +103,6 @@ hash = "59fa5a7fdbcc83cc2dd9a23542d0f950d2e6ba64c368b456c4afc5f8900d8e1d"
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
 hash = "37aaf52aa7545527c7ade71ac77ad2fcf6019995bf58b6ea1fe0f52949919d18"
-
-[[files]]
-file = "config/yosbr/config/wakes.json"
-hash = "932d46b7a5aca98c72913893eacbbc722306d271627d8db171644d9a8112d65e"
-
-[[files]]
-file = "config/yosbr/config/xaerominimap_entities.json"
-hash = "7bd5294bab774cc581f104d39e9d3389233d454b5ff65855e47e719a6f89ab02"
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -264,7 +264,7 @@ metafile = true
 
 [[files]]
 file = "mods/difficulty.pw.toml"
-hash = "65ebc27079642a2133acf47932bc128be4cf415c272fda68abe83c2b330b2a09"
+hash = "fd5809da612b8b4cfb50744b7ac73246db7bf1cdc3269203b87a5004234cf429"
 metafile = true
 
 [[files]]
@@ -728,4 +728,9 @@ metafile = true
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
 hash = "cde3b7c220bc64f5577463053f48a09ef3f82ca79320214953734755563e4f54"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "e6996ecb68a6c690558f589e7194d7df23a186ab8b75f0f67cfed069a280470b"
 metafile = true
