@@ -254,7 +254,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "06fd83587240ff6b6089912d7ce917e0276bfd821fe356baf584dfb8a918e6f2"
+hash = "7cb9e98526468233fbec6f949c78a8afc5ef29447868e1d11cb71293237966a2"
 metafile = true
 
 [[files]]
@@ -319,7 +319,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "f79a3cdea893a12fa0955186df68681016f5b98d94d31e8ea59fa250465578f6"
+hash = "dd5fd2a9a1237239586b6d286b55eaf43c84e080f2491a9be64efa3ea4bd7902"
 metafile = true
 
 [[files]]
@@ -413,11 +413,6 @@ hash = "c4e45594c8d1ab3dacc3b49142f16fb253178dd31d97cc917bf4a4d54f21e081"
 metafile = true
 
 [[files]]
-file = "mods/lambdynamiclights.pw.toml"
-hash = "38d15aa7d6c9c41f437ba00f5fe89b899fff4892ac6fe39c09e89677d8f3b075"
-metafile = true
-
-[[files]]
 file = "mods/language-reload.pw.toml"
 hash = "4772d2d7620cb1f60562d9b139bdec190d80ab1aba55da31b9fb2351858d43ec"
 metafile = true
@@ -503,11 +498,6 @@ hash = "51184f4b5c406dd2df58a8e2af3607baa5aca057d9e226f43294861d9b101531"
 metafile = true
 
 [[files]]
-file = "mods/nyfs-spiders.pw.toml"
-hash = "2e2a377bac55e1707df3f9b1707c0c07eb181df4c7ceb841b1a796b323f8a05b"
-metafile = true
-
-[[files]]
 file = "mods/optigui.pw.toml"
 hash = "7074586f4e29d76663015fc42bb77eb05f8005b5d0f6dafe4a09667ffdf4229b"
 metafile = true
@@ -573,16 +563,6 @@ hash = "d9588ceb844d29e59289753dab253795fac332beb8cf21dbf3403e38ce145702"
 metafile = true
 
 [[files]]
-file = "mods/qkl.pw.toml"
-hash = "debb3cd3f17e14a880884b2ad9997df1956c2bb5ff1c0d88ee86aedf6ab0d7f4"
-metafile = true
-
-[[files]]
-file = "mods/qsl.pw.toml"
-hash = "11ea52b9a710505804ee19c935a40736677c9391cfdf14ca46cfed5fd917aa0d"
-metafile = true
-
-[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "dad26a5b8cdf699093ab461c2c4e6713d1f9019a68efee8d2a9c068ef9ede742"
 metafile = true
@@ -599,7 +579,7 @@ metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
-hash = "4c9833711924bb72dc2cb23a91580439d3c4f58b9ed78dcbece5054233162c44"
+hash = "2b36d7182dd84b76e529770f82fe3418e7a6913cc1e34c6d333956821c38c910"
 metafile = true
 
 [[files]]
@@ -644,7 +624,7 @@ metafile = true
 
 [[files]]
 file = "mods/syncac.pw.toml"
-hash = "08c757ffc0efacd498364657bdfce126efe24459f16c445fe1ce90b528742670"
+hash = "431202eb3bc9e7db3b94c419affb759df0f62bfebb1882e20c88f1a1d43c5a2f"
 metafile = true
 
 [[files]]
