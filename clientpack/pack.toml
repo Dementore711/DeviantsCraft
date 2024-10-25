@@ -1,6 +1,6 @@
 name = "DeviantsCraft"
 author = "Dementore711"
-version = "1.0.5"
+version = "1.0.6"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -9,8 +9,8 @@ hash-format = "sha256"
 hash = "389f8b53a74e559a82930e47f2addafdaf53026766b257f1e6380f9066b7a9bf"
 
 [versions]
+fabric = "0.16.7"
 minecraft = "1.21.1"
-quilt = "0.26.4"
 
 [options]
 acceptable-game-versions = ["1.21.1"]
