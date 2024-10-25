@@ -1,13 +1,13 @@
 name = "Syncac (Synchronized Auto Clicker)"
-filename = "syncac-1.1+1.21.1.jar"
+filename = "syncac-1.2+1.21.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/2tqIzH5v/versions/exx3ISBs/syncac-1.1%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/2tqIzH5v/versions/NTm9sMYD/syncac-1.2%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "02d1f96c96d5ec40011b0901f249737020145799c92c5a1117f2ff6a09944868c8351420d83d5eb49cce3eb6ffc3f1e934b7cfc03ee5d30a5c14af97cf1aa7f6"
+hash = "479b4d2cf691afa6466eb1901bbb18024b4ac70bd667eb0985aa1ee05228216e11d8c429ab81f71869ba381c963781bb8f970110aef795c3027d86f135141639"
 
 [update]
 [update.modrinth]
 mod-id = "2tqIzH5v"
-version = "exx3ISBs"
+version = "NTm9sMYD"
