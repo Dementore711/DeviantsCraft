@@ -6,11 +6,23 @@ hash = "d13af8d99c0268220d6f7fdd42643b41164ccdd3663e1722a215b8c489655dc2"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "fc297b1084f103a9f4f0a8f85a8c70820ae7782c5a394db03d095217c9b5f4d9"
+hash = "7506e1c077a7bcee7a9bc149d3823e2310a037d2b3a941fccd0b5abfe44dbf67"
+
+[[files]]
+file = "config/remote_player_waypoints_for_xaero/friends.json5"
+hash = "d035bf2bd85727f1b20388b919ffe022cf453087e6d382c5b00bd9e704ccc49c"
+
+[[files]]
+file = "config/remote_player_waypoints_for_xaero/general.json5"
+hash = "0cbcecf7e764701988231f1c9d00d5e80140aec07709d3e4aad34db0d6492584"
+
+[[files]]
+file = "config/simpleupdatechecker_modpack.json"
+hash = "6cc346609f630963df52a2447a42e526fcf1d1d8203b58ebff00deea07f33327"
 
 [[files]]
 file = "config/wakes.json"
-hash = "932d46b7a5aca98c72913893eacbbc722306d271627d8db171644d9a8112d65e"
+hash = "040d06acfcc1f1c07cef1e49e1a8451a9ab6dbe86e87d4493d5ccddb27066214"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
@@ -578,6 +590,11 @@ hash = "7790afcb74e2fa740ca2fdefc4651c38466de3ec1709e1e618277d5e8d62181c"
 metafile = true
 
 [[files]]
+file = "mods/remote-player-waypoints-for-xaeros-map.pw.toml"
+hash = "9c065c12e06505c113c7d00d10d7f8f234f0f3844203d5a0a73c4852bcc91f84"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "62bc1d0108fe9e13d45d3534bb70edc36b7af98e8a68439a75e4c692adca2a50"
 metafile = true
@@ -600,6 +617,11 @@ metafile = true
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "4e5d4dd178c19e09ef55e11fd4fd1cebd8f93fba7d9781ec5a95b3d95d5ddefb"
+metafile = true
+
+[[files]]
+file = "mods/simple-update-checker.pw.toml"
+hash = "6a3244683402a70e033fce91ae9ac2126b4befb3b480ca7425671db292bfb18d"
 metafile = true
 
 [[files]]

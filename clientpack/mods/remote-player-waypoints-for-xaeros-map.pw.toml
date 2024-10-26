@@ -1,0 +1,13 @@
+name = "Remote Player Waypoints for Xaero's Map"
+filename = "remote_player_waypoints_for_xaero-fabric-3.2.0-1.21-1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/kiByZ6gx/versions/4guvuMxV/remote_player_waypoints_for_xaero-fabric-3.2.0-1.21-1.21.1.jar"
+hash-format = "sha512"
+hash = "968f3e4b8a8e84c4b7f885cb2bf9aa95f4079077bf3a515f7b5cba7c36d75971fbd55fb87b1c98085b6c680ad986180ec8c48c1ce2ebd425060f0bd1f2b67115"
+
+[update]
+[update.modrinth]
+mod-id = "kiByZ6gx"
+version = "4guvuMxV"
