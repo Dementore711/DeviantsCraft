@@ -14,7 +14,7 @@ hash = "0cbcecf7e764701988231f1c9d00d5e80140aec07709d3e4aad34db0d6492584"
 
 [[files]]
 file = "config/simpleupdatechecker_modpack.json"
-hash = "6cc346609f630963df52a2447a42e526fcf1d1d8203b58ebff00deea07f33327"
+hash = "1056ddb1da578f6c13f54dd4b6bec860e0bea31aa1079cdaf60dfc1c061efce9"
 
 [[files]]
 file = "config/wakes.json"
@@ -119,6 +119,10 @@ hash = "878b7836f8237566173b22c85887212f602b6356a197452141f38690cf72a070"
 [[files]]
 file = "credits.txt"
 hash = "515268f8bfff2856d81c2f15d989a123ab925c47b64675580054c9361f89142e"
+
+[[files]]
+file = "icon.png"
+hash = "5e943075a7be37542a78594a366bdb5761e0000723e17215f4358c82d53a454f"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -347,7 +351,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabrictailor.pw.toml"
-hash = "bb173b06a2b7ff147a8311d55a2fdd4127fc4c0d3946b97831f4ddc59d53c83a"
+hash = "1c29e9aa12233166665d5ad50c603e5f41159217db5b6efd6dd614eb9e80dde8"
 metafile = true
 
 [[files]]
