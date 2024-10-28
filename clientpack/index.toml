@@ -10,7 +10,7 @@ hash = "7506e1c077a7bcee7a9bc149d3823e2310a037d2b3a941fccd0b5abfe44dbf67"
 
 [[files]]
 file = "config/remote_player_waypoints_for_xaero/general.json5"
-hash = "0cbcecf7e764701988231f1c9d00d5e80140aec07709d3e4aad34db0d6492584"
+hash = "15c61aa2602d4fd6b99af9354fce7062459f96a0d69d6af5c89286112bb1d219"
 
 [[files]]
 file = "config/simpleupdatechecker_modpack.json"
@@ -240,6 +240,11 @@ hash = "fe84e2227c405bf9b735f01f307a01768784b9d49df82a13ecda3d3b6d198507"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "97fc734f4cae192b1098173966dcaf66e8e65c0f25d3fb3a57031384927250e8"
+metafile = true
+
+[[files]]
 file = "mods/continuity.pw.toml"
 hash = "5296338914693f94deeaa76034b56f86f21189dfbed51769b42d833e2b064b35"
 metafile = true
@@ -382,6 +387,11 @@ metafile = true
 [[files]]
 file = "mods/friends-and-foes.pw.toml"
 hash = "ec2000f9fb4f84fb906c17c63a6bff79ae06212a761f6180e8c0fd16c5d073c5"
+metafile = true
+
+[[files]]
+file = "mods/gui-followers.pw.toml"
+hash = "3bba75a46949859f3561432a05616aab959d513e8cf9e2fcb729510dc365da96"
 metafile = true
 
 [[files]]
@@ -650,6 +660,11 @@ hash = "31155320da05bc8ed38aa6470b52fe0451fcb6d09c5dd3fb1a71afaa3ec33214"
 metafile = true
 
 [[files]]
+file = "mods/stack-refill.pw.toml"
+hash = "515d635fb09aa97140f0af5b10946143a45ba261ae80276b6bb50f4f7a0709f3"
+metafile = true
+
+[[files]]
 file = "mods/syncac.pw.toml"
 hash = "08c757ffc0efacd498364657bdfce126efe24459f16c445fe1ce90b528742670"
 metafile = true
@@ -712,6 +727,11 @@ metafile = true
 [[files]]
 file = "mods/yosbr.pw.toml"
 hash = "562370faa4a6c9d00932c3da69e6473332369d56281ad278ae5a719718ecde95"
+metafile = true
+
+[[files]]
+file = "mods/zombie-awareness.pw.toml"
+hash = "597a74f79ce4013258c7c45621d63d14c37e89658cd002bcf7193a9beaabb176"
 metafile = true
 
 [[files]]
