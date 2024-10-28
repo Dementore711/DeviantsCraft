@@ -117,6 +117,26 @@ file = "config/yosbr/options.txt"
 hash = "878b7836f8237566173b22c85887212f602b6356a197452141f38690cf72a070"
 
 [[files]]
+file = "config/zombieawareness/ClientConfig.toml"
+hash = "65e585523831b0f28598b37ab39bde4023c768bb867dfe7d38d644d54318713f"
+
+[[files]]
+file = "config/zombieawareness/Features.toml"
+hash = "2d6748447718b322c0f8aa39a77f60b56c78000a2dfe2257ae90c72e0448bbc1"
+
+[[files]]
+file = "config/zombieawareness/General.toml"
+hash = "222e22ce6a391bd57f471bfe82a63ba257fdff00837f14a6c43c07ed72352705"
+
+[[files]]
+file = "config/zombieawareness/MobLists.toml"
+hash = "c3883ac3bb8ddd5375796acad1cf301d76b8e864eb18f357c33866f34682d9fd"
+
+[[files]]
+file = "config/zombieawareness/PlayerRulesAndLists.toml"
+hash = "bd60f14054777a8ff406e6033adf965f861c3faa347826f0022532eeabb23c09"
+
+[[files]]
 file = "credits.txt"
 hash = "515268f8bfff2856d81c2f15d989a123ab925c47b64675580054c9361f89142e"
 
