@@ -22,7 +22,7 @@ hash = "040d06acfcc1f1c07cef1e49e1a8451a9ab6dbe86e87d4493d5ccddb27066214"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "7bd5294bab774cc581f104d39e9d3389233d454b5ff65855e47e719a6f89ab02"
+hash = "136e029b76466527a7cd30eb76c04f97c2b6720472657976f5bb145a19d36281"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
