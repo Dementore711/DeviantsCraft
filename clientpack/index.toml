@@ -14,7 +14,7 @@ hash = "15c61aa2602d4fd6b99af9354fce7062459f96a0d69d6af5c89286112bb1d219"
 
 [[files]]
 file = "config/simpleupdatechecker_modpack.json"
-hash = "1056ddb1da578f6c13f54dd4b6bec860e0bea31aa1079cdaf60dfc1c061efce9"
+hash = "ff71f6f0a4390ec3ce1628d455ab3346c839a89f91e2c42d6a8d9be240a80b07"
 
 [[files]]
 file = "config/wakes.json"
