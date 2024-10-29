@@ -113,26 +113,6 @@ file = "config/yosbr/config/sodium-options.json"
 hash = "37aaf52aa7545527c7ade71ac77ad2fcf6019995bf58b6ea1fe0f52949919d18"
 
 [[files]]
-file = "config/yosbr/config/zombieawareness/ClientConfig.toml"
-hash = "65e585523831b0f28598b37ab39bde4023c768bb867dfe7d38d644d54318713f"
-
-[[files]]
-file = "config/yosbr/config/zombieawareness/Features.toml"
-hash = "2d6748447718b322c0f8aa39a77f60b56c78000a2dfe2257ae90c72e0448bbc1"
-
-[[files]]
-file = "config/yosbr/config/zombieawareness/General.toml"
-hash = "222e22ce6a391bd57f471bfe82a63ba257fdff00837f14a6c43c07ed72352705"
-
-[[files]]
-file = "config/yosbr/config/zombieawareness/MobLists.toml"
-hash = "c3883ac3bb8ddd5375796acad1cf301d76b8e864eb18f357c33866f34682d9fd"
-
-[[files]]
-file = "config/yosbr/config/zombieawareness/PlayerRulesAndLists.toml"
-hash = "bd60f14054777a8ff406e6033adf965f861c3faa347826f0022532eeabb23c09"
-
-[[files]]
 file = "config/yosbr/options.txt"
 hash = "878b7836f8237566173b22c85887212f602b6356a197452141f38690cf72a070"
 
@@ -422,6 +402,11 @@ metafile = true
 [[files]]
 file = "mods/hold-that-chunk.pw.toml"
 hash = "bad3336d3cd68a32e63295875d6295a639f363e6c2e93b5708915917af07db6b"
+metafile = true
+
+[[files]]
+file = "mods/horsebuff.pw.toml"
+hash = "8e380cf36fbc47843330009c395dc8992baa0da8a79c5d7edbf227d1947377f0"
 metafile = true
 
 [[files]]
@@ -747,11 +732,6 @@ metafile = true
 [[files]]
 file = "mods/yosbr.pw.toml"
 hash = "562370faa4a6c9d00932c3da69e6473332369d56281ad278ae5a719718ecde95"
-metafile = true
-
-[[files]]
-file = "mods/zombie-awareness.pw.toml"
-hash = "597a74f79ce4013258c7c45621d63d14c37e89658cd002bcf7193a9beaabb176"
 metafile = true
 
 [[files]]
