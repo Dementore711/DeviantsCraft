@@ -1,6 +1,6 @@
 name = "Animatica"
 filename = "animatica-0.6.1+1.21.jar"
-side = "client"
+side = "both"
 pin = true
 
 [download]

@@ -1,6 +1,6 @@
-name = "Entity Culling"
+name = "Entity Culling Fabric/Forge"
 filename = "entityculling-fabric-1.7.0-mc1.21.jar"
-side = "client"
+side = "both"
 pin = true
 
 [download]

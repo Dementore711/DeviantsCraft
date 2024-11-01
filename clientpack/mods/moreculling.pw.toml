@@ -1,6 +1,6 @@
 name = "More Culling"
 filename = "moreculling-1.21-0.26.0.jar"
-side = "client"
+side = "both"
 pin = true
 
 [download]

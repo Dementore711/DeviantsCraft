@@ -1,6 +1,6 @@
 name = "FabricSkyboxes"
 filename = "fabricskyboxes-0.7.4+mc1.21.jar"
-side = "client"
+side = "both"
 pin = true
 
 [download]

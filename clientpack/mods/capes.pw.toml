@@ -1,6 +1,6 @@
-name = "Capes"
+name = "Capes [Fabric/Forge]"
 filename = "capes-1.5.4+1.21-fabric.jar"
-side = "client"
+side = "both"
 pin = true
 
 [download]

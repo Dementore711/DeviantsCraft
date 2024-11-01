@@ -1,13 +1,13 @@
 name = "SIHYWTCAMD Extensions"
-filename = "sihywtcamd_extensions-1.0+1.21.jar"
+filename = "sihywtcamd_extensions-1.0.1+1.21.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/AYwPB5Hm/versions/6b5To2UE/sihywtcamd_extensions-1.0%2B1.21.jar"
+url = "https://cdn.modrinth.com/data/AYwPB5Hm/versions/bM4ORVhF/sihywtcamd_extensions-1.0.1%2B1.21.jar"
 hash-format = "sha512"
-hash = "d0eb3e8d3db4c3c5c68f42f649e5f678420a4fd4f13577238b4ee61a2e619d3668156436e4cb585cb471b118631d5369fa003126c125cb1cb804c3087029713f"
+hash = "a32830220ee22e223826a1d7c64423176c3bb44f9d8f1632f6098173fa0e2ce4713521ffc41ca2595551a5c1be5b513935b384152d7ac170e2907e0328639f53"
 
 [update]
 [update.modrinth]
 mod-id = "AYwPB5Hm"
-version = "6b5To2UE"
+version = "bM4ORVhF"

@@ -1,6 +1,6 @@
 name = "Sodium Extra"
 filename = "sodium-extra-0.5.7+mc1.21.jar"
-side = "client"
+side = "both"
 pin = true
 
 [download]

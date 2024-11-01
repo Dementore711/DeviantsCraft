@@ -1,6 +1,6 @@
 name = "Iris Shaders"
 filename = "iris-1.7.3+mc1.21.jar"
-side = "client"
+side = "both"
 pin = true
 
 [download]
