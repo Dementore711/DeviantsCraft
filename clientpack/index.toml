@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/chatpatches.json"
+hash = "9b5a0897f0f1dea19cf575183a5079cedec3e3c86f7f0b20352d2335c658f7ee"
+
+[[files]]
 file = "config/fabric_loader_dependencies.json"
 hash = "2e7efba77b97e5662ad9b1b68e2162f50e3b349ae43c72948979ac42cf478a41"
 
@@ -14,7 +18,7 @@ hash = "5403d8b706bc65aa61d7caf0b57adf3ac8d970fb25627e5beb15f2ae0b3b93ee"
 
 [[files]]
 file = "config/simpleupdatechecker_modpack.json"
-hash = "7c60ffd60a07bc923abd00935155bbea1c269a7c4648370e76f8f6e6fade47ae"
+hash = "af1902d964e99c7c5ae5be4ce461ac3b2e7d588b2b2e52ad0503979f0af70a9e"
 
 [[files]]
 file = "config/wakes.json"
@@ -165,6 +169,11 @@ hash = "aa6a55ffc35304d7343f40fd97bacbc6d0abb96b594ab3654c1c8dda5fab78c9"
 metafile = true
 
 [[files]]
+file = "mods/beautified-chat-client.pw.toml"
+hash = "b6081c9812b126569ce3bee22c7ab9f1af045981c0a0e2a9acdda471c629b9ce"
+metafile = true
+
+[[files]]
 file = "mods/better-animations-collection.pw.toml"
 hash = "3ae3c9faad9c5e5c4ae6e1805e991c23350d03677543214bec7e5248852b9ace"
 metafile = true
@@ -217,6 +226,11 @@ metafile = true
 [[files]]
 file = "mods/carry-on.pw.toml"
 hash = "1ba7fcf69deeec5536f8c9e43ee4527a5871e9e5805c1801b855e5c00b25d05a"
+metafile = true
+
+[[files]]
+file = "mods/chatpatches.pw.toml"
+hash = "384e3fc22ff7d5330be8b99fb0d59dde352f7fdf551808f16af2816b3ce09a8c"
 metafile = true
 
 [[files]]
@@ -330,8 +344,18 @@ hash = "5cf1642d0279482948375f1c8dee7e8de5aeec6d41699e4731bd027e3a8d4da8"
 metafile = true
 
 [[files]]
+file = "mods/equipment-compare.pw.toml"
+hash = "4663991510f5d3d290dde5e89e860e0e62408fb0cc3d0556beabc205c727add2"
+metafile = true
+
+[[files]]
 file = "mods/euphoria-patches.pw.toml"
 hash = "7439b67550c331179b07dd6489554c7823aa95d4ecf65228dfee34aef3cafced"
+metafile = true
+
+[[files]]
+file = "mods/explorers-compass.pw.toml"
+hash = "4e338e175962c9ec4d0fb4d5a7515093bff5f805a099942f0d9c51dc8b5de0a2"
 metafile = true
 
 [[files]]
@@ -385,6 +409,11 @@ hash = "a8ef7ef72ef42b0dcf07292944b1f527e1ccf6c3bd76283a70a9edfd71726406"
 metafile = true
 
 [[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "14c177d85196e5f81b2fba22ecf5ee95abe5819709071634b3237437cb352572"
+metafile = true
+
+[[files]]
 file = "mods/gui-followers.pw.toml"
 hash = "3bba75a46949859f3561432a05616aab959d513e8cf9e2fcb729510dc365da96"
 metafile = true
@@ -395,6 +424,11 @@ hash = "df3559d7b38e3dd9003e5f4bdbede4a2636ad8a7a5e3adfcd021c8acb4ebafc8"
 metafile = true
 
 [[files]]
+file = "mods/held-item-info.pw.toml"
+hash = "86ef2b9ef821ac11e0d7fdd07ee8d85b74dc08302cbeca928671bd8ce4c1455f"
+metafile = true
+
+[[files]]
 file = "mods/hold-that-chunk.pw.toml"
 hash = "bad3336d3cd68a32e63295875d6295a639f363e6c2e93b5708915917af07db6b"
 metafile = true
@@ -402,6 +436,11 @@ metafile = true
 [[files]]
 file = "mods/horsebuff.pw.toml"
 hash = "8e380cf36fbc47843330009c395dc8992baa0da8a79c5d7edbf227d1947377f0"
+metafile = true
+
+[[files]]
+file = "mods/iceberg.pw.toml"
+hash = "393e64f701793a17fb3c4e644281219af96e2ba5608558a2e55b1b17f0cc9e49"
 metafile = true
 
 [[files]]
@@ -490,11 +529,6 @@ hash = "0220080e63da514cdfd5ff73355572eba1ebb0202951e12f95740ce413912fb2"
 metafile = true
 
 [[files]]
-file = "mods/morechathistory.pw.toml"
-hash = "8a006f42a53f0a581b532016b9b4d590e3de310e80e6636072044fb7def3cdec"
-metafile = true
-
-[[files]]
 file = "mods/moreculling.pw.toml"
 hash = "9aee7d59c426f993cc97a39d92e439f3789fde325df292bf3c10ffb339907497"
 metafile = true
@@ -537,6 +571,11 @@ metafile = true
 [[files]]
 file = "mods/paginatedadvancements.pw.toml"
 hash = "957101e27002b161c9c70c557feffcb4306ea588a3ca7f480db3e90ecb8ab85f"
+metafile = true
+
+[[files]]
+file = "mods/particle-core.pw.toml"
+hash = "950f7fc2af62b9f8033b9652f89e2a3889194b1826c18b5554bd9376d9806110"
 metafile = true
 
 [[files]]
@@ -670,6 +709,11 @@ hash = "67426301d9800e7ff21706b7c05771b2db4a7004f4e3d5fb7bce8273df30c5e9"
 metafile = true
 
 [[files]]
+file = "mods/tax-free-levels.pw.toml"
+hash = "2359f8f24756731545668a51315f25253764c0f83b0af9d3485f7bf81966f7bf"
+metafile = true
+
+[[files]]
 file = "mods/tcdcommons.pw.toml"
 hash = "1b02ebac642ccf7870fd24e7935072bf7446450e54bd455216751859b2fcf8a5"
 metafile = true
@@ -735,17 +779,27 @@ hash = "1929bccec0112c3a5e87a8e878d2b330077f834fd513058cd4c8ff4ef9e6381e"
 metafile = true
 
 [[files]]
+file = "resourcepacks/Chat_Reporting_Helper.pw.toml"
+hash = "2e49a08cb9b08b2901d147dad509f2a3d17fdf8dae5ce566cbb5e8faeef770cd"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Fast_Better_Grass.pw.toml"
+hash = "bcfdce9c7c0ba8854af6b4c74a5a33822775cdccde0be6e8eff0c2ddbc162831"
+metafile = true
+
+[[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
-hash = "6e75ca294297ae1f32099298a56c15cebee3697f4858de398c3f1690df50552e"
+hash = "7260474907cacc4d6280d22acc61eadff0df46ed3b721b321c5c26b697fa6d4a"
+
+[[files]]
+file = "resourcepacks/Translations_for_Sodium.pw.toml"
+hash = "e1e1e1bc98f1904e951283cd99d3acd44c89c7798335d14a0a22692d30734e42"
+metafile = true
 
 [[files]]
 file = "resourcepacks/VanillaTweaks_r700713_MC1.21.x.zip"
 hash = "7e59a977b4d30039c48094a994e4f894abf53502c41857cf7de2541da843c3c5"
-
-[[files]]
-file = "resourcepacks/chat-reporting-helper.pw.toml"
-hash = "ac13f7c9bc5f99ce85c6104f0aff4d36117c98bd7e6b8c124c7ecb21b94604de"
-metafile = true
 
 [[files]]
 file = "resourcepacks/default-dark-mode.pw.toml"
@@ -758,18 +812,8 @@ hash = "759dce03f3fb55e8091af285fca99da9e40bb3665ea051ed14bbc665c6f00f09"
 metafile = true
 
 [[files]]
-file = "resourcepacks/fast-better-grass.pw.toml"
-hash = "878617a91b765f29656663af4fab778b31a03312070abd16b918e9fa471ed031"
-metafile = true
-
-[[files]]
 file = "resourcepacks/round-trees.pw.toml"
 hash = "df2cf88ec48d05e69b61a75d625d645a87655ffed69d2c875fff3611b9373278"
-metafile = true
-
-[[files]]
-file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "c001bd3d6b193263b27c81539334cc8199ed14ca1a93ad5f24faa936fa75f382"
 metafile = true
 
 [[files]]
