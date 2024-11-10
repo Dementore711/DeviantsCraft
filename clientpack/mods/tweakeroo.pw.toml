@@ -1,6 +1,7 @@
 name = "Tweakeroo"
 filename = "tweakeroo-fabric-1.21.1-0.21.50.jar"
 side = "client"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/t5wuYk45/versions/jVwm5ULD/tweakeroo-fabric-1.21.1-0.21.50.jar"
