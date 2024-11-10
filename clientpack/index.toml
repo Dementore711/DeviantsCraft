@@ -1,8 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/cameraoverhaul.json"
+hash = "23ca9748245437aeb0fa0d346f63d175bb150de9cab9f2e632df2bb75506536e"
+
+[[files]]
 file = "config/chatpatches.json"
-hash = "9b5a0897f0f1dea19cf575183a5079cedec3e3c86f7f0b20352d2335c658f7ee"
+hash = "9e0dc7822855756d70f9e0e47c0d0788676a1914d4333052289634eb4e8d4150"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
@@ -18,15 +22,19 @@ hash = "5403d8b706bc65aa61d7caf0b57adf3ac8d970fb25627e5beb15f2ae0b3b93ee"
 
 [[files]]
 file = "config/simpleupdatechecker_modpack.json"
-hash = "9cfdfc49586d3d65935a0023221c4cc113bd19e2b1cbf585cdce6ad31a5142a9"
+hash = "a6f6ed3968c9df4f464d6071f676ca69e65fd657b146555354360ce983d9b213"
 
 [[files]]
 file = "config/tweakeroo.json"
-hash = "bedb40cfdccfdc20a42fbddf95a297035676b8b5c71416062cb32d0f2c76e47d"
+hash = "33cc6d55e269618879c899909bcecc9e9c8586c86f32cb9aebed170385c96dc8"
 
 [[files]]
 file = "config/wakes.json"
 hash = "040d06acfcc1f1c07cef1e49e1a8451a9ab6dbe86e87d4493d5ccddb27066214"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "e625cc84399ba974a76980bad9b0e570cea63844c8f85f834f5ad0f7a53bc779"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
@@ -122,7 +130,7 @@ hash = "37aaf52aa7545527c7ade71ac77ad2fcf6019995bf58b6ea1fe0f52949919d18"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "878b7836f8237566173b22c85887212f602b6356a197452141f38690cf72a070"
+hash = "a4558bcf18e30e8379acec51fbf39669feb65971cc69c33326359dc808aa9acd"
 
 [[files]]
 file = "credits.txt"
@@ -134,7 +142,7 @@ hash = "5e943075a7be37542a78594a366bdb5761e0000723e17215f4358c82d53a454f"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "20fd19d17cd5436f4184105db0eb8f325ae097183f3adace1ec4981e204bbe50"
+hash = "322fd11cf2b368465e64f828f8442cbe24abd7ea069a3490ec8a0d58e46a4e5c"
 metafile = true
 
 [[files]]
@@ -199,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterf3.pw.toml"
-hash = "db4e5efaaaf8caf66feebb7023c217f1ac3083cfa967fbdcd439aa41df8a7ab0"
+hash = "7d1815ec4f2098c4de8b01494373d84da8a5104accd5ae028a2a020595646082"
 metafile = true
 
 [[files]]
@@ -279,7 +287,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "a88062741d3dd0c2d835ddd4995c29cc3b6d702fd87b0cb13562c774a36cfb0c"
+hash = "5d2b7fc6971568e605e79d5eb7b70b3a4f64fd2e7820001d59e1408e40acd189"
 metafile = true
 
 [[files]]
@@ -354,7 +362,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "7439b67550c331179b07dd6489554c7823aa95d4ecf65228dfee34aef3cafced"
+hash = "475da70de7c8640079840d78d8e3a5e11472ba8db1a471d64ca05498a0ffd4b0"
 metafile = true
 
 [[files]]
@@ -494,7 +502,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "1c6fd7e4c369381f0f6bdad08c9dba7d62fb08036cf95b476f674b8bb0eb2a98"
+hash = "5c0db9264f886150f26e70ddefdbcf32a398ced2320a67ce4004b96dc96e6549"
 metafile = true
 
 [[files]]
@@ -509,7 +517,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "dd941ad7e4c054475831614e7d8197684c3f0667075b8b69dc093da4ab653755"
+hash = "83b2822c8b27eb2b08eba0e71fae33d32b61c1ad7ed6623c2524926cf2fd9238"
 metafile = true
 
 [[files]]
@@ -549,7 +557,7 @@ metafile = true
 
 [[files]]
 file = "mods/mru.pw.toml"
-hash = "ac88cecce7fbae1ef9df6bcc432a80e39dcb8105d64d2238b548a7990f572b7f"
+hash = "c0aa1b330284fc64e2e3aecb6f147f87c17a5d93706d732b4d18888d399959c4"
 metafile = true
 
 [[files]]
@@ -709,7 +717,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound.pw.toml"
-hash = "31155320da05bc8ed38aa6470b52fe0451fcb6d09c5dd3fb1a71afaa3ec33214"
+hash = "a06ab876057c4f28852daff13b9d4814d60a504417dfb025fc1ad34bbfd03413"
 metafile = true
 
 [[files]]
@@ -813,7 +821,7 @@ hash = "7260474907cacc4d6280d22acc61eadff0df46ed3b721b321c5c26b697fa6d4a"
 
 [[files]]
 file = "resourcepacks/Translations_for_Sodium.pw.toml"
-hash = "e1e1e1bc98f1904e951283cd99d3acd44c89c7798335d14a0a22692d30734e42"
+hash = "1160d4fba30ebd98185b2393d9cc612560a0f90ab779006f4c6add8ece4ceb28"
 metafile = true
 
 [[files]]
@@ -827,7 +835,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/faithful-32x.pw.toml"
-hash = "759dce03f3fb55e8091af285fca99da9e40bb3665ea051ed14bbc665c6f00f09"
+hash = "12091e9c1faf6e7c132748eef8f95259880536eed38ab0c1c70bdf466d024402"
 metafile = true
 
 [[files]]

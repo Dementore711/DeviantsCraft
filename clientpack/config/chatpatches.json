@@ -1,5 +1,5 @@
 {
-  "time": true,
+  "time": false,
   "timeDate": "HH:mm:ss",
   "timeFormat": "[$]",
   "timeColor": 16733695,
@@ -16,7 +16,7 @@
   "boundary": true,
   "boundaryFormat": "\u00268[\u0026r$\u00268]",
   "boundaryColor": 5636095,
-  "chatlog": false,
+  "chatlog": true,
   "chatlogSaveInterval": 0,
   "chatHidePacket": true,
   "chatWidth": 0,

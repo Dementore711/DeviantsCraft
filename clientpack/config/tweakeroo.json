@@ -901,7 +901,7 @@
     "tweakAfterClicker": false,
     "tweakAimLock": false,
     "tweakAngelBlock": false,
-    "tweakAutoSwitchElytra": true,
+    "tweakAutoSwitchElytra": false,
     "§6tweakBlockReachOverride§r": false,
     "tweakBlockTypeBreakRestriction": false,
     "tweakBreakingGrid": false,
