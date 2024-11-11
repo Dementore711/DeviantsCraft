@@ -17,12 +17,16 @@ file = "config/isxander-main-menu-credits.json"
 hash = "7506e1c077a7bcee7a9bc149d3823e2310a037d2b3a941fccd0b5abfe44dbf67"
 
 [[files]]
+file = "config/minihud.json"
+hash = "9d1b50582af5c5f06f0177f9a0fde610cd0f5ccc5da620545eed547ed14a6caf"
+
+[[files]]
 file = "config/provihealth.json"
 hash = "5403d8b706bc65aa61d7caf0b57adf3ac8d970fb25627e5beb15f2ae0b3b93ee"
 
 [[files]]
 file = "config/simpleupdatechecker_modpack.json"
-hash = "a6f6ed3968c9df4f464d6071f676ca69e65fd657b146555354360ce983d9b213"
+hash = "004840b348dc382b312a72f2c93ce9986cf8b4c353531eba163c8635316d3569"
 
 [[files]]
 file = "config/tweakeroo.json"
@@ -143,6 +147,16 @@ hash = "5e943075a7be37542a78594a366bdb5761e0000723e17215f4358c82d53a454f"
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "322fd11cf2b368465e64f828f8442cbe24abd7ea069a3490ec8a0d58e46a4e5c"
+metafile = true
+
+[[files]]
+file = "mods/accessories-tc-layer.pw.toml"
+hash = "f0a1bb333ffdb23edde7bc7912e2e489f1986f5107f547afd66d5aa6e4aca985"
+metafile = true
+
+[[files]]
+file = "mods/accessories.pw.toml"
+hash = "5a7a1c4a5c087b66a57edd1067ba0048b3f6edb3fa0fc1449ffaff8d09a1e81b"
 metafile = true
 
 [[files]]
@@ -292,7 +306,7 @@ metafile = true
 
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
-hash = "1cc95e4a6b1267f6db4ea2a8c59339ac1fc9e494ee88017ecc365e9b53420d2a"
+hash = "a3f31789a9e455eb59b7f9b11b039f5eefe2a2214286f39483be890ed6ab77a0"
 metafile = true
 
 [[files]]
@@ -317,7 +331,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic_fps.pw.toml"
-hash = "2d71b1c2721728b065ea61dc391f195386b5d425bdd7c894bd4fad5123341e28"
+hash = "3907617eaf0858fda427a06ad296a772e0370b4dda43acf75822805cdd4bb054"
 metafile = true
 
 [[files]]
@@ -347,7 +361,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity_texture_features.pw.toml"
-hash = "b346fcbc651aa487bc24fb5a95454672a7d1cc9ace20432c988682c6e323d0ba"
+hash = "399ecaddf00b18499bd4317447f409c1e7f113652b8c075f71b7c120f04c1313"
 metafile = true
 
 [[files]]
@@ -462,7 +476,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "ead421dc98337a681d894b5b1e7e04f7469230e87b9a85ed684694b34352bd80"
+hash = "8d9839fc9cfe8582ddb2b32943bed08833526cd490068132fd3b3cb317b43e2c"
 metafile = true
 
 [[files]]
@@ -492,12 +506,12 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynlights.pw.toml"
-hash = "12b439fe55edb35db81cb2f443245fed535eb1723341c37a6a940f3d7e9fb3bc"
+hash = "bb75052ac8e26443d6eabd4ebefe49ee9a44a4c8a0ba1f25899365473ff5ed8c"
 metafile = true
 
 [[files]]
 file = "mods/languagereload.pw.toml"
-hash = "6cc45887028b230fa2dfc811346747de7968a81941f1b4e036d7b1b5ef52c762"
+hash = "c328d8b5f8b1e0d4bc8dd7c4cb3968c01eca6b1a428b020b5bb711bb9a028487"
 metafile = true
 
 [[files]]
@@ -521,6 +535,11 @@ hash = "83b2822c8b27eb2b08eba0e71fae33d32b61c1ad7ed6623c2524926cf2fd9238"
 metafile = true
 
 [[files]]
+file = "mods/minihud.pw.toml"
+hash = "942fbf825b6090fbc4622de3719bb62ff6acf7ba8faa1a573b8f7c832baf6b7d"
+metafile = true
+
+[[files]]
 file = "mods/mixintrace.pw.toml"
 hash = "20b3866b65c60d4dc8581ec71a2c57c29e07d71076facd889714ea80ea0ab0e3"
 metafile = true
@@ -532,7 +551,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "0ed22f901569ae8d630d3fa7682319c2fa7641c518c182b1ab1bd44cdaafa317"
+hash = "d795ac4bc7321d5b9defa33eaba9e03b5fa38b8345d827417d9366913567cb67"
 metafile = true
 
 [[files]]
@@ -572,12 +591,12 @@ metafile = true
 
 [[files]]
 file = "mods/nochatreports.pw.toml"
-hash = "dc5827da3415161550dba29bc30f319ddcff4ba17a32b8202356a85a495d465f"
+hash = "f3c5cb21ff2e78c7e8cdbd14d1535e6edd464d5a436dbfa4e60b8ea91374674d"
 metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "51184f4b5c406dd2df58a8e2af3607baa5aca057d9e226f43294861d9b101531"
+hash = "ab2c5617ae054c92648cd1415c665e350f067f4cc5f4b178edc8f150e57c024e"
 metafile = true
 
 [[files]]
@@ -648,6 +667,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "dd4b5f371bf4737672ed5bde3a1e45690541ab23cc32236ca2019aba603e51d2"
+metafile = true
+
+[[files]]
+file = "mods/quick-right-click.pw.toml"
+hash = "fcdf8421b4d958dc536bc13e523de39514f6abddb72bae09415e4e96aa8ad76d"
 metafile = true
 
 [[files]]
@@ -756,6 +780,11 @@ hash = "1be43bf5478f2f2e145266bd11e0b90c0025caf0f90e6c4990aad4ad2e110911"
 metafile = true
 
 [[files]]
+file = "mods/vanity.pw.toml"
+hash = "df15fb1cbaf1cada75ab7d8d975b07997feb85e48352c8d5bd688fcb9726cb85"
+metafile = true
+
+[[files]]
 file = "mods/visuality.pw.toml"
 hash = "39426bfeeab22ea17f94fd3904dd9b78f9a3c9b4ddcb732b734ddbfd0e3568af"
 metafile = true
@@ -782,7 +811,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "2f7cd6067865d66bdd991e97389fd8ca6c4204f6032113d50d0c5d6bafea6e97"
+hash = "81a0c59e2345c142bd07b2fc792ba39b7d7a0a5b0ed0b74a0ca1aca827822b1c"
 metafile = true
 
 [[files]]
