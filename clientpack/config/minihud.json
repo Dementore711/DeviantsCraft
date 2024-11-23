@@ -15,6 +15,7 @@
     "infoRotationYaw": 0,
     "infoRotationPitch": 0,
     "infoBlockBreakSpeed": 0,
+    "infoPlayerExperience": 0,
     "infoSpeed": 0,
     "infoSpeedAxis": 0,
     "infoSpeedHV": 0,
@@ -47,13 +48,15 @@
     "infoBeeCount": 0,
     "infoHoneyLevel": 0,
     "infoFurnaceXp": 0,
-    "infoLookingAtEntity": 0,
     "infoEntityRegistryName": 0,
+    "infoLookingAtEntity": 0,
     "infoLookingAtEffects": 0,
+    "infoLookingAtPlayerExp": 0,
     "infoZombieConversion": 0,
     "infoHorseSpeed": 0,
     "infoHorseJump": 0,
-    "infoPandaGene": 0
+    "infoPandaGene": 0,
+    "infoEntityVariant": 0
   },
   "Colors": {
     "beaconRangeLvl1": "#20E060FF",
@@ -101,10 +104,15 @@
     "beeTooltips": true,
     "honeyTooltips": true,
     "biomeOverlaySingleColor": true,
+    "bundlePreview": false,
+    "bundleDisplayBgColor": true,
+    "bundleDisplayRequireShift": true,
     "debugMessages": false,
     "dontClearStoredSeedOnDimensionChange": true,
     "entityDataSync": true,
     "entityDataSyncBackup": true,
+    "entityDataSyncLoadNbt": false,
+    "infoLinesUsesNbt": true,
     "lightLevelAutoHeight": false,
     "lightLevelCollisionCheck": false,
     "lightLevelColoredNumbers": true,
@@ -191,6 +199,7 @@
     },
     "villagerConversionTicks": true,
     "villagerOfferEnchantmentBooks": true,
+    "villagerOfferPriceRange": true,
     "villagerOfferHighestLevelOnly": false,
     "villagerOfferLowestPriceNearby": false,
     "villagerOfferPriceThreshold": 1.0
@@ -211,6 +220,7 @@
     "infoRotationYaw": false,
     "infoRotationPitch": false,
     "infoBlockBreakSpeed": false,
+    "infoPlayerExperience": false,
     "infoSpeed": false,
     "infoSpeedAxis": false,
     "infoSpeedHV": false,
@@ -243,13 +253,15 @@
     "infoBeeCount": false,
     "infoHoneyLevel": false,
     "infoFurnaceXp": false,
-    "infoLookingAtEntity": false,
     "infoEntityRegistryName": false,
+    "infoLookingAtEntity": false,
     "infoLookingAtEffects": false,
+    "infoLookingAtPlayerExp": false,
     "infoZombieConversion": true,
     "infoHorseSpeed": true,
     "infoHorseJump": true,
-    "infoPandaGene": false
+    "infoPandaGene": false,
+    "infoEntityVariant": false
   },
   "InfoHotkeys": {
     "infoFPS": {
@@ -295,6 +307,9 @@
       "keys": ""
     },
     "infoBlockBreakSpeed": {
+      "keys": ""
+    },
+    "infoPlayerExperience": {
       "keys": ""
     },
     "infoSpeed": {
@@ -393,13 +408,16 @@
     "infoFurnaceXp": {
       "keys": ""
     },
-    "infoLookingAtEntity": {
-      "keys": ""
-    },
     "infoEntityRegistryName": {
       "keys": ""
     },
+    "infoLookingAtEntity": {
+      "keys": ""
+    },
     "infoLookingAtEffects": {
+      "keys": ""
+    },
+    "infoLookingAtPlayerExp": {
       "keys": ""
     },
     "infoZombieConversion": {
@@ -412,6 +430,9 @@
       "keys": ""
     },
     "infoPandaGene": {
+      "keys": ""
+    },
+    "infoEntityVariant": {
       "keys": ""
     }
   },
@@ -431,13 +452,30 @@
     "overlayStructureMainToggle": false,
     "overlayVillagerInfo": false,
     "shapeRenderer": false,
+    "debugDataMainToggle": false,
+    "debugBeeDataEnabled": false,
+    "debugBrainEnabled": false,
+    "debugBreezeJumpEnabled": false,
     "debugChunkBorder": false,
     "debugChunkInfo": false,
+    "debugChunkLoading": false,
     "debugChunkOcclusion": false,
     "debugCollisionBoxEnabled": false,
+    "debugHeightmapEnabled": false,
+    "debugLightEnabled": false,
     "debugNeighborsUpdateEnabled": false,
+    "debugGameEventsEnabled": false,
+    "debugGoalSelectorEnabled": false,
+    "debugPathfindingEnabled": false,
+    "debugRaidCenterEnabled": false,
+    "debugSkylightEnabled": false,
     "debugSolidFaceEnabled": false,
-    "debugWaterEnabled": false
+    "debugStructuresEnabled": false,
+    "debugSupportingBlock": false,
+    "debugWaterEnabled": false,
+    "debugVillageEnabled": false,
+    "debugVillageSectionsEnabled": false,
+    "debugWorldGenEnabled": false
   },
   "RendererHotkeys": {
     "overlayBeaconRange": {
@@ -485,10 +523,25 @@
     "shapeRenderer": {
       "keys": ""
     },
+    "debugDataMainToggle": {
+      "keys": ""
+    },
+    "debugBeeDataEnabled": {
+      "keys": ""
+    },
+    "debugBrainEnabled": {
+      "keys": ""
+    },
+    "debugBreezeJumpEnabled": {
+      "keys": ""
+    },
     "debugChunkBorder": {
       "keys": ""
     },
     "debugChunkInfo": {
+      "keys": ""
+    },
+    "debugChunkLoading": {
       "keys": ""
     },
     "debugChunkOcclusion": {
@@ -497,13 +550,49 @@
     "debugCollisionBoxEnabled": {
       "keys": ""
     },
+    "debugHeightmapEnabled": {
+      "keys": ""
+    },
+    "debugLightEnabled": {
+      "keys": ""
+    },
     "debugNeighborsUpdateEnabled": {
+      "keys": ""
+    },
+    "debugGameEventsEnabled": {
+      "keys": ""
+    },
+    "debugGoalSelectorEnabled": {
+      "keys": ""
+    },
+    "debugPathfindingEnabled": {
+      "keys": ""
+    },
+    "debugRaidCenterEnabled": {
+      "keys": ""
+    },
+    "debugSkylightEnabled": {
       "keys": ""
     },
     "debugSolidFaceEnabled": {
       "keys": ""
     },
+    "debugStructuresEnabled": {
+      "keys": ""
+    },
+    "debugSupportingBlock": {
+      "keys": ""
+    },
     "debugWaterEnabled": {
+      "keys": ""
+    },
+    "debugVillageEnabled": {
+      "keys": ""
+    },
+    "debugVillageSectionsEnabled": {
+      "keys": ""
+    },
+    "debugWorldGenEnabled": {
       "keys": ""
     }
   },

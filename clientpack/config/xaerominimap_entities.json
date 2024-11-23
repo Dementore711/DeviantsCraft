@@ -190,9 +190,10 @@
       "includeListInSuperCategory": true,
       "excludeMode": "ONLY",
       "excludeList": [
+        "handcrafted:fancy_painting",
         "minecraft:arrow",
         "minecraft:chest_minecart",
-        "minecraft:hopper_minecart",
+        "minecraft:painting",
         "mutantmonsters:mutant_arrow"
       ],
       "name": "gui.xaero_entity_category_other_entities",
