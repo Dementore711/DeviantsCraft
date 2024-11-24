@@ -26,11 +26,23 @@ hash = "5403d8b706bc65aa61d7caf0b57adf3ac8d970fb25627e5beb15f2ae0b3b93ee"
 
 [[files]]
 file = "config/simpleupdatechecker_modpack.json"
-hash = "4ba9bd2f26dae4bc48baa31662da30f92a3c75259e24e601c637c4185004b0ec"
+hash = "287d3c625d6cd6cc8aa0b93688be58f9a92fc6819146c18a168af5671600c89d"
 
 [[files]]
 file = "config/tweakeroo.json"
 hash = "bedb40cfdccfdc20a42fbddf95a297035676b8b5c71416062cb32d0f2c76e47d"
+
+[[files]]
+file = "config/uselessreptile.json5"
+hash = "ecb57f7da87c7ed93a26a6307f1a1eb906ab27d7f8f93c3385c44876b536c237"
+
+[[files]]
+file = "config/uselessreptile_client.json5"
+hash = "271a6f4d168f2fdd57392b6f8daf665f8918c035f153d9d5e5e32b4d06814c4b"
+
+[[files]]
+file = "config/uselessreptile_mob_attributes.json5"
+hash = "b06a19c0d58f6ceb8e88483fbe25da7d6a57e61f1b820dc695a1f25bc0d3bf06"
 
 [[files]]
 file = "config/wakes.json"
@@ -42,7 +54,7 @@ hash = "e625cc84399ba974a76980bad9b0e570cea63844c8f85f834f5ad0f7a53bc779"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "c9e96b0637e8f5ea291443354ef5392f2c7f610877602c3f8446d911bc4f766b"
+hash = "a38ad84ed331913f95d71c8e8be66dbe4ee62fda3a585bcf4ea32f38ca8d59ea"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -445,6 +457,11 @@ hash = "095caa260713aae3cb72d0c1e97a8e361896011bfe84870753c738bbce8bc32a"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "37481fb94ef7cdb7a8ef4ccef57458ab88e83272e31e5db62b619da1fb98b732"
+metafile = true
+
+[[files]]
 file = "mods/gui-followers.pw.toml"
 hash = "3bba75a46949859f3561432a05616aab959d513e8cf9e2fcb729510dc365da96"
 metafile = true
@@ -512,6 +529,11 @@ metafile = true
 [[files]]
 file = "mods/languagereload.pw.toml"
 hash = "69e7dedf396d59222feaf8c58e737d04d45bf717147a668642e9ac246a99bdc8"
+metafile = true
+
+[[files]]
+file = "mods/leaf-me-alone.pw.toml"
+hash = "443ec5c37984c9f0076b2059543f2113a43d1f029aaa9a5e20c59dfa804b965d"
 metafile = true
 
 [[files]]
@@ -777,6 +799,11 @@ metafile = true
 [[files]]
 file = "mods/tweakeroo.pw.toml"
 hash = "1be43bf5478f2f2e145266bd11e0b90c0025caf0f90e6c4990aad4ad2e110911"
+metafile = true
+
+[[files]]
+file = "mods/useless-reptile.pw.toml"
+hash = "ece15296d8b0111e6967e61c60bd5accc5abd4967ca67255d0728905dceabd32"
 metafile = true
 
 [[files]]
