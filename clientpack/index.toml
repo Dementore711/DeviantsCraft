@@ -26,7 +26,7 @@ hash = "5403d8b706bc65aa61d7caf0b57adf3ac8d970fb25627e5beb15f2ae0b3b93ee"
 
 [[files]]
 file = "config/simpleupdatechecker_modpack.json"
-hash = "287d3c625d6cd6cc8aa0b93688be58f9a92fc6819146c18a168af5671600c89d"
+hash = "c58ced11ceb744a2bf473a63835e437bd063efd03b391ca080328ece0d08bea3"
 
 [[files]]
 file = "config/tweakeroo.json"
