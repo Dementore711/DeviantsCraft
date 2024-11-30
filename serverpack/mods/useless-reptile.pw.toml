@@ -1,0 +1,13 @@
+filename = 'useless-reptile-0.8.3-1.21.1.jar'
+name = 'Useless Reptile'
+side = 'both'
+
+[download]
+hash = '53417a8f9ad6a00ca2b69006d1eeca16531c7141ccaf79576a0d4c56965949a5902e479d6bb3d9c54f45b135aab42553014d8124f79a31f843becbae1031aa9f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/YE4QRt8F/versions/38lcL201/useless-reptile-0.8.3-1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'YE4QRt8F'
+version = '38lcL201'

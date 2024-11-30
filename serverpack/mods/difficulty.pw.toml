@@ -1,13 +1,13 @@
-filename = 'sihywtcamd-1.11+1.21.jar'
-name = 'sihywtcamd'
+filename = 'sihywtcamd-1.11.1+1.21.jar'
+name = 'SIHYWTCAMD'
 side = 'both'
 
 [download]
-hash = '1ac705c24abd37f023c215252998682dd72abe78ae03f92838b2bd1160ee1a37f28985006f19999bd1189270c0a63f8445c57d76bfe6782c2796efdc0693f0c2'
+hash = '2d128c2956d34c710ef8344b2ef881d03475f30d9afedba0c5d606025db1fc29e6f800ecb746aa9871098267335a1ccb31ebc114903c2a4fa8fbd48eccbea96d'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/EutyxFnb/versions/c1irJpsk/sihywtcamd-1.11%2B1.21.jar'
+url = 'https://cdn.modrinth.com/data/EutyxFnb/versions/upRfwKwe/sihywtcamd-1.11.1%2B1.21.jar'
 
 [update.modrinth]
 mod-id = 'EutyxFnb'
-version = 'c1irJpsk'
+version = 'upRfwKwe'

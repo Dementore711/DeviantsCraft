@@ -313,7 +313,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "5d2b7fc6971568e605e79d5eb7b70b3a4f64fd2e7820001d59e1408e40acd189"
+hash = "3c2f0bff7c03aaee08732e2074af4c1cf1f5d3201c5bc3ad9000b8760cba2b41"
 metafile = true
 
 [[files]]
@@ -403,7 +403,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "64cad6ab84eefa727e7256738aa77a19a90ab5e9e02f4e19fc4fdfd672953cab"
+hash = "3d0bf4d56ea941f856200934fdc2fb4952fe513d469f47bdb5fc586f99f16097"
 metafile = true
 
 [[files]]
@@ -453,7 +453,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "095caa260713aae3cb72d0c1e97a8e361896011bfe84870753c738bbce8bc32a"
+hash = "cdd849e77b02e9e44ed04cf6367c36b7212162d511ff1bfa4a9e75af324f1e0e"
 metafile = true
 
 [[files]]
@@ -553,7 +553,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "cbd11dd2ce7d950794a78cc2a2986e89226f418edf578a961b796dbe9be57a27"
+hash = "50e0a358de6967fdf2c9c61cf895930a49c01c0909f33d8ea093bf855777e3de"
 metafile = true
 
 [[files]]
@@ -763,7 +763,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound.pw.toml"
-hash = "a06ab876057c4f28852daff13b9d4814d60a504417dfb025fc1ad34bbfd03413"
+hash = "d1c4eb5d6d68540d9f5035884328e0fbf6170f9d2d9b863f9615945bac5bf3d1"
 metafile = true
 
 [[files]]
@@ -838,7 +838,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "81a0c59e2345c142bd07b2fc792ba39b7d7a0a5b0ed0b74a0ca1aca827822b1c"
+hash = "2f7cd6067865d66bdd991e97389fd8ca6c4204f6032113d50d0c5d6bafea6e97"
 metafile = true
 
 [[files]]
@@ -863,12 +863,12 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Chat_Reporting_Helper.pw.toml"
-hash = "2e49a08cb9b08b2901d147dad509f2a3d17fdf8dae5ce566cbb5e8faeef770cd"
+hash = "0af53205159b943ef86a2537ac6caa18c83d1d7a5372617f2c5072289dd2191f"
 metafile = true
 
 [[files]]
 file = "resourcepacks/Fast_Better_Grass.pw.toml"
-hash = "bcfdce9c7c0ba8854af6b4c74a5a33822775cdccde0be6e8eff0c2ddbc162831"
+hash = "803f48c4448f1a68af10262178a6ec354f058d63f08ec0f682c9fd522b2f755f"
 metafile = true
 
 [[files]]
@@ -877,7 +877,7 @@ hash = "7260474907cacc4d6280d22acc61eadff0df46ed3b721b321c5c26b697fa6d4a"
 
 [[files]]
 file = "resourcepacks/Translations_for_Sodium.pw.toml"
-hash = "f0d349365c6385ea0ef4e2ab186bd13c968c4887392925672cdaf38ae4af1b18"
+hash = "7f087c6759fdb1e3612372dda7ee42c502607e968f687664aab807f0237ab7ac"
 metafile = true
 
 [[files]]
