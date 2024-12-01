@@ -1,6 +1,6 @@
 filename = 'repurposed_structures-7.5.12+1.21.1-fabric.jar'
-name = 'Repurposed Structures'
-side = 'both'
+name = 'Repurposed Structures - Quilt/Fabric'
+side = 'server'
 
 [download]
 hash = '4d5110f817cd35b293ea752f07bf582e42ca5ae60882b82228b40cb135543fa01ca8c2df8ba6d74aa4c08c986f71c70dc71b117c7562a69822de1dbc00015d82'

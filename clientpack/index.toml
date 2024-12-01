@@ -38,7 +38,7 @@ hash = "ecb57f7da87c7ed93a26a6307f1a1eb906ab27d7f8f93c3385c44876b536c237"
 
 [[files]]
 file = "config/uselessreptile_client.json5"
-hash = "271a6f4d168f2fdd57392b6f8daf665f8918c035f153d9d5e5e32b4d06814c4b"
+hash = "183616ed30a99f0240507e27c9fa45abc0399a048af93d00a89a2dd872fe94fc"
 
 [[files]]
 file = "config/uselessreptile_mob_attributes.json5"
@@ -357,6 +357,11 @@ hash = "94bb32bdca3c20f9b910dcd3f5f3c4ef112c77dfd7f4c5940065cb20f4e63308"
 metafile = true
 
 [[files]]
+file = "mods/effect-descriptions.pw.toml"
+hash = "8163fdbfe1991be80659f2888970e6c5e0e31d04eb9da67fbac47898fa72e1c8"
+metafile = true
+
+[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "559829422c0b39e55c7e7224940337de1630284027d2aca0a0e214fc9ca42b92"
 metafile = true
@@ -538,7 +543,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "84f6fdfe8576c72a5704178b45e3142ae81ed263c474c46a93f98f7d42debb68"
+hash = "c6d58a7af6566256a14b48cd4ccda92e3c830efde32ca75e526a1902342d2ef5"
 metafile = true
 
 [[files]]
@@ -553,12 +558,12 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "50e0a358de6967fdf2c9c61cf895930a49c01c0909f33d8ea093bf855777e3de"
+hash = "ac18f08584260cf3a3dc69068513b0ae6b0a3b8b7be9a4c0c4e02b22d77e9635"
 metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "9e48afc3bf83d788f7164d06b6cf18ddfd6ba402ffa8d90a7a96aa97c4742cd7"
+hash = "6e957b55d6f9333153edf2718183a4aaa8960f4551aad86ffb7b91e005ce0c79"
 metafile = true
 
 [[files]]

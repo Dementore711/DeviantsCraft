@@ -5,7 +5,7 @@
 	cameraHorizontalOffset: -1.5,
 	enableCameraOffset: true,
 	enableCrosshair: true,
-	autoThirdPerson: true,
+	autoThirdPerson: false,
 	// DRAGON APPEARANCE
 	disableNamedEntityModels: false,
 	disableEmissiveTextures: false,
