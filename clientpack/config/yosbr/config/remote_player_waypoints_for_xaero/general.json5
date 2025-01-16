@@ -4,8 +4,8 @@
 	"serverEntries": [
 		{
 			"maptype": "Bluemap",
-			"ip": "play.deviantscraft.online",
-			"link": "http://play.deviantscraft.online:8100"
+			"ip": "play.deviantscraft.site",
+			"link": "http://play.deviantscraft.site:8100"
 		}
 	],
 	"defaultY": 64,
