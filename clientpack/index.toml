@@ -26,7 +26,7 @@ hash = "5403d8b706bc65aa61d7caf0b57adf3ac8d970fb25627e5beb15f2ae0b3b93ee"
 
 [[files]]
 file = "config/simpleupdatechecker_modpack.json"
-hash = "30e42c28c604538b850c53e7302100929e63aaa4ecc32b31f9470a67baba0ba0"
+hash = "352b8b4089b148ef72881bdb015780e840254a7eea6b1332e07665bf400e7ee0"
 
 [[files]]
 file = "config/tweakeroo.json"
@@ -134,7 +134,7 @@ hash = "4449fb9b3440c4367f861d0f8e75b879caf6c897cb47569f13929ca37d6c864d"
 
 [[files]]
 file = "config/yosbr/config/remote_player_waypoints_for_xaero/general.json5"
-hash = "15c61aa2602d4fd6b99af9354fce7062459f96a0d69d6af5c89286112bb1d219"
+hash = "ce3ac8ff936a42cfb78296b815e69aa74983f2de5000a32e9791ebde26c299b3"
 
 [[files]]
 file = "config/yosbr/config/rrls.toml"
@@ -218,7 +218,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-combat.pw.toml"
-hash = "dd1602dd711d1896973ca97bbec4b41935b4f0e45b4d4e4cafe0bfa6db7b6905"
+hash = "c689c9bef3edc1b6be923ae33437a17e44d4d7c81feb9ada519f52e076a21cb7"
 metafile = true
 
 [[files]]
@@ -262,6 +262,11 @@ hash = "de03880e5ea11a903ab10d2ea26614a8feccef88333ae833c3cb61ef98a65799"
 metafile = true
 
 [[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "b4e70e0d9c83d816fbe8b1aafcbf78e3a8f07174d4af7778addb323b374647bd"
+metafile = true
+
+[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "1ba7fcf69deeec5536f8c9e43ee4527a5871e9e5805c1801b855e5c00b25d05a"
 metafile = true
@@ -292,8 +297,33 @@ hash = "fe84e2227c405bf9b735f01f307a01768784b9d49df82a13ecda3d3b6d198507"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-fight-or-flight-reborn.pw.toml"
+hash = "376af1aadea38d1e961f5e8a3bd03ed5f78e97ac26ca8aed5fb7fcf9d7994bd2"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-pokenav.pw.toml"
+hash = "c14c5452e5c7cfe532abf20e14c0ba5cc49810ff3c355e8235f83ee0e398b40e"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-spawn-notification.pw.toml"
+hash = "a08580c0d0cf0dafd10c2b934ced367bb795be6b1d08b7fc532d0c037af15995"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon.pw.toml"
 hash = "fc8f794d5ec18979f4e17d9b456d4d5405151eedb4354e7118f9a14e5877793e"
+metafile = true
+
+[[files]]
+file = "mods/cobblemonrider1.5.pw.toml"
+hash = "fee7fe91bb7b34f17e1447cd4e6d5672e5714e061c0869204536e5d2ac6cc7b6"
+metafile = true
+
+[[files]]
+file = "mods/cobblepedia.pw.toml"
+hash = "4b48430430571dcafe9b60f64e3286161519f0416daa7215deb7468dcf107466"
 metafile = true
 
 [[files]]
@@ -522,6 +552,11 @@ hash = "03ce7a0361c83be5bec388bef4d60f15d89834afb4d5294c9e44e8d226575b84"
 metafile = true
 
 [[files]]
+file = "mods/keybindsgaloreplus.pw.toml"
+hash = "c5fbb36f7f3fc0aedb5e45ce7fcce64e869a6b183ed1e9b02de8f04dd912217f"
+metafile = true
+
+[[files]]
 file = "mods/kiss.pw.toml"
 hash = "de1944f9e22b5ebc1df0e2ceb10a81ec8148c771d18382141fc4e15e0dd00a2f"
 metafile = true
@@ -657,6 +692,11 @@ hash = "7d44aac0137dc9ca5de82b350e1e2602db35f599874627477a42d6e64e6b9403"
 metafile = true
 
 [[files]]
+file = "mods/patchouli.pw.toml"
+hash = "711e5ea2c44b3cdb1257a9dfb95b36425397f1ba3efc9f1c4263ccdbd6e149d8"
+metafile = true
+
+[[files]]
 file = "mods/ping-wheel.pw.toml"
 hash = "b1381f0dd9a4cc74d39cde3f62460f56dfde457d1c9a7d7e10e5f81a29a2a87a"
 metafile = true
@@ -704,6 +744,16 @@ metafile = true
 [[files]]
 file = "mods/quick-right-click.pw.toml"
 hash = "fcdf8421b4d958dc536bc13e523de39514f6abddb72bae09415e4e96aa8ad76d"
+metafile = true
+
+[[files]]
+file = "mods/rctapi.pw.toml"
+hash = "100173291b3f417637d24a669d130c2c9f0382c01ec4566943a9c965cb25bbbe"
+metafile = true
+
+[[files]]
+file = "mods/rctmod.pw.toml"
+hash = "1e8ecf5d4cd22243c0198fb472d49c18797bf12d548fbe67ac5708fb26da6a18"
 metafile = true
 
 [[files]]
@@ -807,6 +857,11 @@ hash = "d5538edd3a67054d28c6c769a80a56005497e644c6c9af7be7a407ab3fbef44b"
 metafile = true
 
 [[files]]
+file = "mods/travelersbackpack.pw.toml"
+hash = "a83fd7e29fa227305397cd00187b035e5f27df2d77ced84ecc093a8ca366cccd"
+metafile = true
+
+[[files]]
 file = "mods/tweakeroo.pw.toml"
 hash = "1be43bf5478f2f2e145266bd11e0b90c0025caf0f90e6c4990aad4ad2e110911"
 metafile = true
@@ -895,8 +950,23 @@ file = "resourcepacks/VanillaTweaks_r700713_MC1.21.x.zip"
 hash = "7e59a977b4d30039c48094a994e4f894abf53502c41857cf7de2541da843c3c5"
 
 [[files]]
+file = "resourcepacks/blues-better-monsters.pw.toml"
+hash = "3fa6bc97ca79e9b662255489e32fca45b9a8411aaca6c2e2757fa9050d80f7f7"
+metafile = true
+
+[[files]]
+file = "resourcepacks/cobblemon-emissive-ores.pw.toml"
+hash = "f7ec4148b1e94aae9739cc1e135bb5452e0272a7e1f3187dce8fa6a980c65fe8"
+metafile = true
+
+[[files]]
 file = "resourcepacks/default-dark-mode.pw.toml"
 hash = "f6061454884efd0938f9fcf21965a2bdc21720217d153af6cc4efa86f055c0aa"
+metafile = true
+
+[[files]]
+file = "resourcepacks/e19_cobblemon_minimap_icons.pw.toml"
+hash = "bfb17ada66912300dd4113643bd31f61f5e495c6bc56709fc1dc74bbcd21d490"
 metafile = true
 
 [[files]]
