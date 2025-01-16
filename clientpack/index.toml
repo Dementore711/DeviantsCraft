@@ -26,7 +26,7 @@ hash = "5403d8b706bc65aa61d7caf0b57adf3ac8d970fb25627e5beb15f2ae0b3b93ee"
 
 [[files]]
 file = "config/simpleupdatechecker_modpack.json"
-hash = "352b8b4089b148ef72881bdb015780e840254a7eea6b1332e07665bf400e7ee0"
+hash = "a4d112051a15a0559b5a30772e9ba41e00555e2177a6a7cc7d287e6bcf481d9f"
 
 [[files]]
 file = "config/tweakeroo.json"
@@ -159,16 +159,6 @@ hash = "5e943075a7be37542a78594a366bdb5761e0000723e17215f4358c82d53a454f"
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "81f72955e64568bc01f7a22015c32706badfb52ec7f094b392b0a8722aef837e"
-metafile = true
-
-[[files]]
-file = "mods/accessories-tc-layer.pw.toml"
-hash = "bd5d617d5a7517e54f375299d0a81179d0be35c83f832564be314da581024bce"
-metafile = true
-
-[[files]]
-file = "mods/accessories.pw.toml"
-hash = "a4742ed87cd462eaac8801da563fbcdf5f32ae101f431f7316a3ec939998d6af"
 metafile = true
 
 [[files]]
@@ -307,6 +297,11 @@ hash = "c14c5452e5c7cfe532abf20e14c0ba5cc49810ff3c355e8235f83ee0e398b40e"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-ride-on!.pw.toml"
+hash = "30ed3033555d818c4e8d026160d6dc0f64cf16bfb8f38fe2d091bdebc5d78ef0"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-spawn-notification.pw.toml"
 hash = "a08580c0d0cf0dafd10c2b934ced367bb795be6b1d08b7fc532d0c037af15995"
 metafile = true
@@ -314,11 +309,6 @@ metafile = true
 [[files]]
 file = "mods/cobblemon.pw.toml"
 hash = "fc8f794d5ec18979f4e17d9b456d4d5405151eedb4354e7118f9a14e5877793e"
-metafile = true
-
-[[files]]
-file = "mods/cobblemonrider1.5.pw.toml"
-hash = "fee7fe91bb7b34f17e1447cd4e6d5672e5714e061c0869204536e5d2ac6cc7b6"
 metafile = true
 
 [[files]]
@@ -748,7 +738,7 @@ metafile = true
 
 [[files]]
 file = "mods/rctapi.pw.toml"
-hash = "100173291b3f417637d24a669d130c2c9f0382c01ec4566943a9c965cb25bbbe"
+hash = "b89ed1b47a554072d805e788f76ee416e33f2113fb44e34c4aabd97f8675a060"
 metafile = true
 
 [[files]]
@@ -869,11 +859,6 @@ metafile = true
 [[files]]
 file = "mods/useless-reptile.pw.toml"
 hash = "5924256634f08e8d4eac76af2f7ef90195c9aebe8b115a6ac8d51b3cc12aaff5"
-metafile = true
-
-[[files]]
-file = "mods/vanity.pw.toml"
-hash = "df15fb1cbaf1cada75ab7d8d975b07997feb85e48352c8d5bd688fcb9726cb85"
 metafile = true
 
 [[files]]

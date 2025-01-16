@@ -1,6 +1,6 @@
 name = "Radical Cobblemon Trainers API"
 filename = "rctapi-fabric-1.21.1-0.10.6-beta.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/CBfM2yw7/versions/9OEAzYUj/rctapi-fabric-1.21.1-0.10.6-beta.jar"
