@@ -27,11 +27,14 @@
 	"otherHealth": "HIDE_IF_FULL",
 	"otherTarget": true,
 	"worldTitles": true,
+	"tintBackground": false,
+	"useTeamColours": false,
 	"bossHUD": "FULL",
 	"hostileHUD": "FULL",
 	"playerHUD": "FULL",
 	"otherHUD": "FULL",
 	"hudTitles": true,
+	"hudStatusEffects": true,
 	"damageParticles": true,
 	"healingParticles": false,
 	"damageColour": 16711680,
@@ -48,9 +51,12 @@
 	"compatWorldBar": false,
 	"compatHudPaperdoll": "STANDARD",
 	"healthBlacklist": [
-		"minecraft:armor_stand"
+		"minecraft:armor_stand",
+		"cobblemon:pokemon"
 	],
 	"hudBlacklist": [
-		"minecraft:armor_stand"
+		"minecraft:armor_stand",
+		"cobblemon:pokemon",
+		"rctmod:trainer"
 	]
 }

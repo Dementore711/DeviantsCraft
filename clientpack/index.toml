@@ -22,11 +22,15 @@ hash = "b642d3a2edf3709e753042efe830f3e08fffae03012b1da4074286d606420721"
 
 [[files]]
 file = "config/provihealth.json"
-hash = "5403d8b706bc65aa61d7caf0b57adf3ac8d970fb25627e5beb15f2ae0b3b93ee"
+hash = "c3e57e31248cd689463ba0d926411db9ae44a263d316ddb6baa0e13b81a77e71"
+
+[[files]]
+file = "config/remote_player_waypoints_for_xaero/general.json5"
+hash = "ce3ac8ff936a42cfb78296b815e69aa74983f2de5000a32e9791ebde26c299b3"
 
 [[files]]
 file = "config/simpleupdatechecker_modpack.json"
-hash = "a4d112051a15a0559b5a30772e9ba41e00555e2177a6a7cc7d287e6bcf481d9f"
+hash = "12d8cb16acc4006ddfaa78d63e2d83b5bd780759b9571a7f0faf1c8c0b4abe05"
 
 [[files]]
 file = "config/tweakeroo.json"
@@ -54,7 +58,7 @@ hash = "e625cc84399ba974a76980bad9b0e570cea63844c8f85f834f5ad0f7a53bc779"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "a38ad84ed331913f95d71c8e8be66dbe4ee62fda3a585bcf4ea32f38ca8d59ea"
+hash = "36dc1e6bb7fbdc89675a44edb7df6a9744b41af53012fc3d8aecaea135c3fa96"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -133,10 +137,6 @@ file = "config/yosbr/config/puzzle.json"
 hash = "4449fb9b3440c4367f861d0f8e75b879caf6c897cb47569f13929ca37d6c864d"
 
 [[files]]
-file = "config/yosbr/config/remote_player_waypoints_for_xaero/general.json5"
-hash = "ce3ac8ff936a42cfb78296b815e69aa74983f2de5000a32e9791ebde26c299b3"
-
-[[files]]
 file = "config/yosbr/config/rrls.toml"
 hash = "59fa5a7fdbcc83cc2dd9a23542d0f950d2e6ba64c368b456c4afc5f8900d8e1d"
 
@@ -146,11 +146,16 @@ hash = "37aaf52aa7545527c7ade71ac77ad2fcf6019995bf58b6ea1fe0f52949919d18"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "a4558bcf18e30e8379acec51fbf39669feb65971cc69c33326359dc808aa9acd"
+hash = "15fb8582ece48b03bbffa60dc192830e65ea561e110976c1a2f05da854ea7494"
 
 [[files]]
 file = "credits.txt"
 hash = "0ff43a26bcfd190b276db02a4292440d5ad1c22828ea8d765cf565e7bedd3c90"
+
+[[files]]
+file = "datapacks/missingmons-cobblemon.pw.toml"
+hash = "a2b624bbb7147a53808520a52a71e4dd63a2994382085309cda8ccf84aaefeaf"
+metafile = true
 
 [[files]]
 file = "icon.png"
@@ -292,6 +297,11 @@ hash = "376af1aadea38d1e961f5e8a3bd03ed5f78e97ac26ca8aed5fb7fcf9d7994bd2"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-move-inspector.pw.toml"
+hash = "7655c2066b628358f7388a690f3b492f94e27dbd571e42213ee18970d7452918"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-pokenav.pw.toml"
 hash = "c14c5452e5c7cfe532abf20e14c0ba5cc49810ff3c355e8235f83ee0e398b40e"
 metafile = true
@@ -344,6 +354,11 @@ metafile = true
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "1cc95e4a6b1267f6db4ea2a8c59339ac1fc9e494ee88017ecc365e9b53420d2a"
+metafile = true
+
+[[files]]
+file = "mods/datapacks.pw.toml"
+hash = "ec85c153480d984fda1491e558f1367b026e82d38662fa4dcf58da454e472068"
 metafile = true
 
 [[files]]
@@ -622,6 +637,11 @@ hash = "0220080e63da514cdfd5ff73355572eba1ebb0202951e12f95740ce413912fb2"
 metafile = true
 
 [[files]]
+file = "mods/more-cobblemon-tweaks.pw.toml"
+hash = "61d5e8773284ffeeaada97b7df598bca664e1333841461c43ab598c59ea822f0"
+metafile = true
+
+[[files]]
 file = "mods/moreculling.pw.toml"
 hash = "9aee7d59c426f993cc97a39d92e439f3789fde325df292bf3c10ffb339907497"
 metafile = true
@@ -639,6 +659,11 @@ metafile = true
 [[files]]
 file = "mods/mutant-monsters.pw.toml"
 hash = "e45258d06c077c76bde2aa31ab2c91f329015f42bf0336d38d33fa2cfdff8f4a"
+metafile = true
+
+[[files]]
+file = "mods/natdertale-auto-third-person.pw.toml"
+hash = "131419643d168ce0dd730138cc3037ff3f07ab3d60d5ab03d78216bf6860ff57"
 metafile = true
 
 [[files]]
@@ -842,6 +867,11 @@ hash = "e77fe4473df0685a27bdc27f9a50c0dced4d298a2765301c2b1f0b11e078a887"
 metafile = true
 
 [[files]]
+file = "mods/tmcraft.pw.toml"
+hash = "c42032aa633f24cadea95e45c768e92f261aa7f61bb0086203bc3f63115d6b63"
+metafile = true
+
+[[files]]
 file = "mods/trading-post.pw.toml"
 hash = "d5538edd3a67054d28c6c769a80a56005497e644c6c9af7be7a407ab3fbef44b"
 metafile = true
@@ -854,11 +884,6 @@ metafile = true
 [[files]]
 file = "mods/tweakeroo.pw.toml"
 hash = "1be43bf5478f2f2e145266bd11e0b90c0025caf0f90e6c4990aad4ad2e110911"
-metafile = true
-
-[[files]]
-file = "mods/useless-reptile.pw.toml"
-hash = "5924256634f08e8d4eac76af2f7ef90195c9aebe8b115a6ac8d51b3cc12aaff5"
 metafile = true
 
 [[files]]
@@ -912,6 +937,10 @@ hash = "1929bccec0112c3a5e87a8e878d2b330077f834fd513058cd4c8ff4ef9e6381e"
 metafile = true
 
 [[files]]
+file = "resourcepacks/AllTheMons R2.1 V1.zip"
+hash = "5b4342c2812f72ee4db9a35507feba433a2c73b6dc38fca42cf7b53271c52316"
+
+[[files]]
 file = "resourcepacks/Chat_Reporting_Helper.pw.toml"
 hash = "0af53205159b943ef86a2537ac6caa18c83d1d7a5372617f2c5072289dd2191f"
 metafile = true
@@ -945,6 +974,11 @@ hash = "f7ec4148b1e94aae9739cc1e135bb5452e0272a7e1f3187dce8fa6a980c65fe8"
 metafile = true
 
 [[files]]
+file = "resourcepacks/cobblemon-interface.pw.toml"
+hash = "5562e131499a2941c164919cd03e6c474ab9e418de32ea1548ee9aed663d15f4"
+metafile = true
+
+[[files]]
 file = "resourcepacks/default-dark-mode.pw.toml"
 hash = "f6061454884efd0938f9fcf21965a2bdc21720217d153af6cc4efa86f055c0aa"
 metafile = true
@@ -957,6 +991,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/faithful-32x.pw.toml"
 hash = "12091e9c1faf6e7c132748eef8f95259880536eed38ab0c1c70bdf466d024402"
+metafile = true
+
+[[files]]
+file = "resourcepacks/rct-trainer-textures-plus.pw.toml"
+hash = "e72ed75a53d8ed715f56998dcb6e82c1cdf806324926e3996b24a9ecc95766ef"
 metafile = true
 
 [[files]]

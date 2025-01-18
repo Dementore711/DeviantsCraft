@@ -7,13 +7,19 @@ joinedFirstServer:true
 maxFps:260
 onboardAccessibility:false
 operatorItemsTab:true
-resourcePacks:["vanilla","fabric","continuity:glass_pane_culling_fix","continuity:default","file/SodiumTranslations.zip","file/Mod Menu Helper.zip","file/Chat Reporting Helper.zip","file/Fast Better Grass.zip","file/VanillaTweaks_r700713_MC1.21.x.zip","presencefootsteps:default_sound_pack","file/Faithful 32x - 1.21.1.zip","file/Round-Trees-7.1-1.19+.zip","file/Default-Dark-Mode-1.20.2+-2024.6.0.zip"]
-incompatibleResourcePacks:["appleskin","badoptimizations","balm-fabric","bookshelf","carryon","clienttweaks","enchdesc","guifollowers","modernfix","mru","tweakeroo","watut","xaerominimap","xaeroworldmap","yet_another_config_lib_v3","file/Round-Trees-7.1-1.19+.zip"]
+resourcePacks:["vanilla","fabric","continuity:glass_pane_culling_fix","continuity:default","file/SodiumTranslations.zip","file/Mod Menu Helper.zip","file/Chat Reporting Helper.zip","file/Fast Better Grass.zip","file/VanillaTweaks_r700713_MC1.21.x.zip","file/Cobblemon Interface v1.4.0.zip","file/Faithful 32x - 1.21.1.zip","file/Round-Trees-7.1-1.19+.zip","file/Default-Dark-Mode-1.20.2+-2024.6.0.zip","provihealth:rounded_bars","cobblemon:gyaradosjump","cobblemon:regionbiasforms","cobblemon:uniqueshinyforms","file/emissive-cobblemon-ores.zip","file/RCT Trainers+ [1.6] v1.5.zip","file/AllTheMons R2.1 V1.zip","file/E19 Cobblemon Minimap Icons.zip"]
+incompatibleResourcePacks:["appleskin","badoptimizations","balm-fabric","basicweapons","bookshelf","carryon","clienttweaks","cobblemon_spawn_notification","enchdesc","guifollowers","modernfix","mru","patchouli","tweakeroo","watut","xaerominimap","xaeroworldmap","yet_another_config_lib_v3","file/Round-Trees-7.1-1.19+.zip","file/AllTheMons R2.1 V1.zip"]
 simulationDistance:6
 skipMultiplayerWarning:true
 telemetryOptInExtra:false
 tutorialStep:none
 key_key.saveToolbarActivator:key.keyboard.unknown
+key_key.hotbar.1:key.keyboard.unknown
+key_key.hotbar.2:key.keyboard.unknown
+key_key.hotbar.3:key.keyboard.unknown
+key_key.hotbar.4:key.keyboard.unknown
+key_key.hotbar.5:key.keyboard.unknown
+key_key.hotbar.6:key.keyboard.unknown
 key_zoomify.key.zoom:key.keyboard.c
 key_zoomify.key.zoom.secondary:key.keyboard.unknown
 key_iris.keybind.reload:key.keyboard.unknown
@@ -28,8 +34,14 @@ key_key.carry.desc:key.keyboard.unknown
 key_key.clienttweaks.hideOffhandItem:key.keyboard.unknown
 key_key.clienttweaks.disableStepAssist:key.keyboard.unknown
 key_key.clienttweaks.disableLogStripping:key.keyboard.unknown
+key_key.cobblemon.hideparty:key.keyboard.6
+key_key.cobblemon.summary:key.keyboard.1
+key_key.cobblemon.downshiftparty:key.keyboard.4
+key_key.cobblemon.upshiftparty:key.keyboard.3
+key_key.cobblemon.throwpartypokemon:key.keyboard.2
+key_key.fightorflight.startbattle:key.keyboard.5
 key_key.entityculling.toggle:key.keyboard.unknown
-key_equipmentcompare.key.showTooltips:key.keyboard.left.shift
+key_equipmentcompare.key.showTooltips:key.keyboard.right.shift
 key_key.fabricskyboxes.toggle:key.keyboard.unknown
 key_key.fabricskyboxes.toggle.debug_hud:key.keyboard.unknown
 key_key.fabrictailor.toggle_skin_gui:key.keyboard.k
@@ -67,7 +79,7 @@ key_gui.xaero_toggle_grid:key.keyboard.unknown
 key_gui.xaero_toggle_waypoints:key.keyboard.unknown
 key_gui.xaero_toggle_map_waypoints:key.keyboard.unknown
 key_gui.xaero_toggle_map:key.keyboard.unknown
-key_gui.xaero_enlarge_map:key.keyboard.z
+key_gui.xaero_enlarge_map:key.keyboard.unknown
 key_gui.xaero_waypoints_key:key.keyboard.unknown
 key_gui.xaero_zoom_in:key.keyboard.unknown
 key_gui.xaero_zoom_out:key.keyboard.unknown
@@ -86,7 +98,7 @@ key_gui.xaero_open_map:key.keyboard.m
 key_gui.xaero_open_settings:key.keyboard.unknown
 key_gui.xaero_map_zoom_in:key.keyboard.unknown
 key_gui.xaero_map_zoom_out:key.keyboard.unknown
-key_gui.xaero_quick_confirm:key.keyboard.right.shift
+key_gui.xaero_quick_confirm:key.keyboard.unknown
 key_gui.xaero_toggle_dimension:key.keyboard.unknown
 key_zoomify.key.zoom:key.keyboard.c
 key_zoomify.key.zoom.secondary:key.keyboard.unknown
