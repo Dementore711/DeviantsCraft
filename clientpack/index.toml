@@ -153,6 +153,11 @@ file = "credits.txt"
 hash = "0ff43a26bcfd190b276db02a4292440d5ad1c22828ea8d765cf565e7bedd3c90"
 
 [[files]]
+file = "datapacks/allthemons.pw.toml"
+hash = "f371955401da14372701103a5625d696cb7b52bad29febe2b0aaf04f60cea820"
+metafile = true
+
+[[files]]
 file = "datapacks/missingmons-cobblemon.pw.toml"
 hash = "a2b624bbb7147a53808520a52a71e4dd63a2994382085309cda8ccf84aaefeaf"
 metafile = true
