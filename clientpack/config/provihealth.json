@@ -51,8 +51,7 @@
 	"compatWorldBar": false,
 	"compatHudPaperdoll": "STANDARD",
 	"healthBlacklist": [
-		"minecraft:armor_stand",
-		"cobblemon:pokemon"
+		"minecraft:armor_stand"
 	],
 	"hudBlacklist": [
 		"minecraft:armor_stand",

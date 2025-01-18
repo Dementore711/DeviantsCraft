@@ -22,7 +22,7 @@ hash = "b642d3a2edf3709e753042efe830f3e08fffae03012b1da4074286d606420721"
 
 [[files]]
 file = "config/provihealth.json"
-hash = "c3e57e31248cd689463ba0d926411db9ae44a263d316ddb6baa0e13b81a77e71"
+hash = "89b041813b3bed96342b65a73af79be8ef7cf54f31560830be0fd2ab5f607a80"
 
 [[files]]
 file = "config/remote_player_waypoints_for_xaero/general.json5"
@@ -30,7 +30,7 @@ hash = "ce3ac8ff936a42cfb78296b815e69aa74983f2de5000a32e9791ebde26c299b3"
 
 [[files]]
 file = "config/simpleupdatechecker_modpack.json"
-hash = "12d8cb16acc4006ddfaa78d63e2d83b5bd780759b9571a7f0faf1c8c0b4abe05"
+hash = "7ce1ae6bfaa9b5698a46edd55163c29edc14845741a8241a11593ce558007ac1"
 
 [[files]]
 file = "config/tweakeroo.json"
@@ -213,7 +213,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-combat.pw.toml"
-hash = "c689c9bef3edc1b6be923ae33437a17e44d4d7c81feb9ada519f52e076a21cb7"
+hash = "ac2f2661d24bf5b143a54e2dea96f9266e9bb5041e3ec7df69f22a28e9c0ff7b"
 metafile = true
 
 [[files]]
@@ -243,7 +243,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "19cbff765705dd99b0592740eec718e45985b2bf4dc555d7eff76181471ba887"
+hash = "e3511fe364200dcbd8381faf675db398e9730f5067a35fddc281840a5a04d27a"
 metafile = true
 
 [[files]]
@@ -443,7 +443,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "4412cc24a65c1dfa7fe090089e8cd699600916a44d2b7a38a928b379aa7b2770"
+hash = "e0060dd5608032c12619d942e2004f7a1635ebadaef3b928445d2211f082f01f"
 metafile = true
 
 [[files]]
@@ -498,7 +498,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "439c4e7a20a96daef235db0f8c0d5793928e7bb24a349bf9bb8bcbe5bbe0fa40"
+hash = "930582b9a57bea2770978bdd0e03e72a51fd1bed2626a0b5770d178c4d12ca31"
 metafile = true
 
 [[files]]
@@ -678,7 +678,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "2413fcb171198ce6ff6f2dbc2bc77fde132865558fce5873a2ba2a1d397d52a0"
+hash = "e19a1b0c45de95f0ada6cc360dc74a0512e781f5ba0e4e610403e74cc97e6839"
 metafile = true
 
 [[files]]
@@ -753,7 +753,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "de948cb3c2d4e8945c446c96827165787967008050de37e152f3826addfee845"
+hash = "9cd1f164764a1ad176682b8d57815c7c0b8dc5f837c542d42bc1192aec33ff83"
 metafile = true
 
 [[files]]
@@ -768,7 +768,7 @@ metafile = true
 
 [[files]]
 file = "mods/rctmod.pw.toml"
-hash = "1e8ecf5d4cd22243c0198fb472d49c18797bf12d548fbe67ac5708fb26da6a18"
+hash = "1109638ef57c8ceb9ba50a04c86220c9c19597457cb509212b4ef60a26c2c788"
 metafile = true
 
 [[files]]
@@ -853,7 +853,7 @@ metafile = true
 
 [[files]]
 file = "mods/tax-free-levels.pw.toml"
-hash = "c5e0fe1b3b10add6c4d72b3030fe29baac92cb69cb8a9f7108ca0294f1fc2bb1"
+hash = "bfb720228929979444b62cefbea6ad38a989d1908fbfc2da55376f2d2650037d"
 metafile = true
 
 [[files]]
@@ -956,7 +956,7 @@ hash = "7260474907cacc4d6280d22acc61eadff0df46ed3b721b321c5c26b697fa6d4a"
 
 [[files]]
 file = "resourcepacks/Translations_for_Sodium.pw.toml"
-hash = "4042eaeb1d749190df5a64f781ccfd82305c46a12ee08bf36d9b1b249bbe7f2b"
+hash = "3ab54c3a40637d8de41c3cbf056081dbd901d6cf440373e7173e9e6f7b54a110"
 metafile = true
 
 [[files]]
