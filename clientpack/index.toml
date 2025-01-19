@@ -30,7 +30,7 @@ hash = "ce3ac8ff936a42cfb78296b815e69aa74983f2de5000a32e9791ebde26c299b3"
 
 [[files]]
 file = "config/simpleupdatechecker_modpack.json"
-hash = "7ce1ae6bfaa9b5698a46edd55163c29edc14845741a8241a11593ce558007ac1"
+hash = "146344a8be30d4ea9c2fa98e0a0d850733c0ff7749082699ecee6da405cf4b2d"
 
 [[files]]
 file = "config/tweakeroo.json"
@@ -158,11 +158,6 @@ hash = "f371955401da14372701103a5625d696cb7b52bad29febe2b0aaf04f60cea820"
 metafile = true
 
 [[files]]
-file = "datapacks/missingmons-cobblemon.pw.toml"
-hash = "a2b624bbb7147a53808520a52a71e4dd63a2994382085309cda8ccf84aaefeaf"
-metafile = true
-
-[[files]]
 file = "icon.png"
 hash = "5e943075a7be37542a78594a366bdb5761e0000723e17215f4358c82d53a454f"
 
@@ -248,7 +243,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "e3511fe364200dcbd8381faf675db398e9730f5067a35fddc281840a5a04d27a"
+hash = "961844f416418678b032b0997e40b57f3e9963ce2df82cc4551e751baf74972f"
 metafile = true
 
 [[files]]
@@ -773,7 +768,7 @@ metafile = true
 
 [[files]]
 file = "mods/rctmod.pw.toml"
-hash = "1109638ef57c8ceb9ba50a04c86220c9c19597457cb509212b4ef60a26c2c788"
+hash = "83f98a8cbdec6e8b5ff9fb27b05100fc3d947b639d5d3686f31fa68194b48a43"
 metafile = true
 
 [[files]]
@@ -873,7 +868,7 @@ metafile = true
 
 [[files]]
 file = "mods/tmcraft.pw.toml"
-hash = "c42032aa633f24cadea95e45c768e92f261aa7f61bb0086203bc3f63115d6b63"
+hash = "02d512d519e9e27e4d56734d9daaace36c6ff1155846116cbbba34966915877a"
 metafile = true
 
 [[files]]
