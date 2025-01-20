@@ -30,7 +30,7 @@ hash = "ce3ac8ff936a42cfb78296b815e69aa74983f2de5000a32e9791ebde26c299b3"
 
 [[files]]
 file = "config/simpleupdatechecker_modpack.json"
-hash = "146344a8be30d4ea9c2fa98e0a0d850733c0ff7749082699ecee6da405cf4b2d"
+hash = "cb0d0c19ba39e3a7df09183060fe2122ae793c075ad140aec08bfb2c2b79633c"
 
 [[files]]
 file = "config/tweakeroo.json"
@@ -150,11 +150,26 @@ hash = "15fb8582ece48b03bbffa60dc192830e65ea561e110976c1a2f05da854ea7494"
 
 [[files]]
 file = "credits.txt"
-hash = "0ff43a26bcfd190b276db02a4292440d5ad1c22828ea8d765cf565e7bedd3c90"
+hash = "7dc1fcbe07da8190aa42d65c1812fdb17c7324366cd10f03b1624c118487976d"
 
 [[files]]
 file = "datapacks/allthemons.pw.toml"
 hash = "f371955401da14372701103a5625d696cb7b52bad29febe2b0aaf04f60cea820"
+metafile = true
+
+[[files]]
+file = "datapacks/cobblemon-additions.pw.toml"
+hash = "07203a54b6c02483b20fcce133694ce4b36fd0b498d7335a47ec08099c1564e1"
+metafile = true
+
+[[files]]
+file = "datapacks/cobblemon-pokeloot.pw.toml"
+hash = "af907d7a127f7ebe3d166aa4257c3bb5227aafb1091837dbc8b341bfa7e56619"
+metafile = true
+
+[[files]]
+file = "datapacks/morerecipes-cobblemon.pw.toml"
+hash = "7ebb1f4357769f43f73e95ccba6a2dbe9a1bf2e713ee0ed57ec5a8db0d3ab5c7"
 metafile = true
 
 [[files]]
@@ -488,7 +503,7 @@ metafile = true
 
 [[files]]
 file = "mods/friends-and-foes.pw.toml"
-hash = "95c8305f3e41e8f15f491f87a7be727b1d96e020f6942210f4e2434704f0b602"
+hash = "96339d27729d5a73360eb2d9e5e9b92b146f0968e485a743c7eea839dff28fa3"
 metafile = true
 
 [[files]]
@@ -558,7 +573,7 @@ metafile = true
 
 [[files]]
 file = "mods/keybindsgaloreplus.pw.toml"
-hash = "c5fbb36f7f3fc0aedb5e45ce7fcce64e869a6b183ed1e9b02de8f04dd912217f"
+hash = "35363143818a0d57fe00b998759af5157a3bcd54b642bd735c588ba1c00752a3"
 metafile = true
 
 [[files]]
@@ -698,7 +713,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-core.pw.toml"
-hash = "950f7fc2af62b9f8033b9652f89e2a3889194b1826c18b5554bd9376d9806110"
+hash = "00f608a4eb5338ec23c0174eff2a5dc8a8c4795ed634820c1b32c26b62ebc3bb"
 metafile = true
 
 [[files]]
@@ -768,7 +783,7 @@ metafile = true
 
 [[files]]
 file = "mods/rctmod.pw.toml"
-hash = "83f98a8cbdec6e8b5ff9fb27b05100fc3d947b639d5d3686f31fa68194b48a43"
+hash = "2a732e89ac34f59f803db985326becd0160ffe66fa4cad5b9f497348b27ca74d"
 metafile = true
 
 [[files]]
@@ -853,7 +868,7 @@ metafile = true
 
 [[files]]
 file = "mods/tax-free-levels.pw.toml"
-hash = "bfb720228929979444b62cefbea6ad38a989d1908fbfc2da55376f2d2650037d"
+hash = "fcd92853a728b92cc82d6de0adcb42b0463c6825069e30a07c707fc571dc119a"
 metafile = true
 
 [[files]]
@@ -868,7 +883,7 @@ metafile = true
 
 [[files]]
 file = "mods/tmcraft.pw.toml"
-hash = "02d512d519e9e27e4d56734d9daaace36c6ff1155846116cbbba34966915877a"
+hash = "b038a7036582bc9f9a28e3e68525b37c36e27959a4eab070d3b6d99187f2ca03"
 metafile = true
 
 [[files]]
@@ -878,7 +893,7 @@ metafile = true
 
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
-hash = "a83fd7e29fa227305397cd00187b035e5f27df2d77ced84ecc093a8ca366cccd"
+hash = "2b186a82c5599f1ec1bceafabb0eeb15a424d62c5a6115c780b4f4093ea059b3"
 metafile = true
 
 [[files]]
@@ -942,7 +957,7 @@ hash = "5b4342c2812f72ee4db9a35507feba433a2c73b6dc38fca42cf7b53271c52316"
 
 [[files]]
 file = "resourcepacks/Chat_Reporting_Helper.pw.toml"
-hash = "0af53205159b943ef86a2537ac6caa18c83d1d7a5372617f2c5072289dd2191f"
+hash = "c0614ff6f888087ce2f4d0ade02b005679b503dc7d7109e30904abbc88cabc1b"
 metafile = true
 
 [[files]]
