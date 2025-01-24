@@ -30,7 +30,7 @@ hash = "ce3ac8ff936a42cfb78296b815e69aa74983f2de5000a32e9791ebde26c299b3"
 
 [[files]]
 file = "config/simpleupdatechecker_modpack.json"
-hash = "e9d0c9872d4510800a47bf5f1b3ac4a423a22d554ee15f4ba687f1a345a22b93"
+hash = "75ed78ff142c7d354af9ab1fec2c7c4463510a2959e9f9165925c85640278879"
 
 [[files]]
 file = "config/tweakeroo.json"
@@ -238,7 +238,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "d512e7b29840fb39f4a98004c47f0f45b08696f221abc1ff3301c7ea1725f676"
+hash = "7af283ca94e8d0d24a7c5b5fd43c0b5c4bc4300c00754ae40dfb0b5d44ea6a17"
 metafile = true
 
 [[files]]
@@ -308,7 +308,12 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-fight-or-flight-reborn.pw.toml"
-hash = "376af1aadea38d1e961f5e8a3bd03ed5f78e97ac26ca8aed5fb7fcf9d7994bd2"
+hash = "3475ecdb4cf940b52df03a2e08ff6eec45ffa6d4b0d916b3c488a37b4bca4c7f"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-integrations.pw.toml"
+hash = "326b3e13ba50a1c860e38d20a2a141976634ac818d7573004cf7f6b2fa466d43"
 metafile = true
 
 [[files]]
@@ -448,7 +453,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "56a8cddbad703d1168bb4249ce07f5280a9f43ca1129e30a13030942b232bce6"
+hash = "34470ed19902dfae2e2e8618bb0f680b2e07b30c72ed3bcd41a55154c5ac0e7f"
 metafile = true
 
 [[files]]
@@ -548,7 +553,7 @@ metafile = true
 
 [[files]]
 file = "mods/iceberg.pw.toml"
-hash = "393e64f701793a17fb3c4e644281219af96e2ba5608558a2e55b1b17f0cc9e49"
+hash = "858f7eef766bcdc4bb91a0cb82938375a421372c7cdc198f67d1f2254b70eeb5"
 metafile = true
 
 [[files]]
@@ -783,7 +788,7 @@ metafile = true
 
 [[files]]
 file = "mods/rctmod.pw.toml"
-hash = "94d829d8ba2ae7bf70f90a336b5f66582b2d95e030f29bb41890e92c1c917e82"
+hash = "299458ad40500114329e1debaa18d929502a49f272529d3103b205e3174ed8bb"
 metafile = true
 
 [[files]]
@@ -883,7 +888,7 @@ metafile = true
 
 [[files]]
 file = "mods/tmcraft.pw.toml"
-hash = "b038a7036582bc9f9a28e3e68525b37c36e27959a4eab070d3b6d99187f2ca03"
+hash = "5793554fe5bfb7b2af02c9439e702395ee94b8e626ada8d8dae912b2189db30e"
 metafile = true
 
 [[files]]
@@ -917,6 +922,11 @@ hash = "b76ffe80c018dde453c9dad8f4179238acaa02e56e7b82071a3cc52419e80dc7"
 metafile = true
 
 [[files]]
+file = "mods/waystones.pw.toml"
+hash = "583bbfb5616668d09386b7b5d7378ad85a6c67f99831e0c3d1586d1dff19f7ae"
+metafile = true
+
+[[files]]
 file = "mods/what-are-they-up-to.pw.toml"
 hash = "935be1426f9fd50cf30a6953142eb490cb4b445e1739d5552d074828b69e2ba6"
 metafile = true
@@ -928,7 +938,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "07d6a9e4a6ac35db08c83d9caf1f9882f7f8be4a0ff6c94732559dd200a40fa3"
+hash = "83d2b81250708266abe1d8e41d07d7b6e5a27a49062789491d2855d67cc94e12"
 metafile = true
 
 [[files]]
