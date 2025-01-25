@@ -30,7 +30,7 @@ hash = "ce3ac8ff936a42cfb78296b815e69aa74983f2de5000a32e9791ebde26c299b3"
 
 [[files]]
 file = "config/simpleupdatechecker_modpack.json"
-hash = "75ed78ff142c7d354af9ab1fec2c7c4463510a2959e9f9165925c85640278879"
+hash = "fe3597de110a052bc279393fc63779f134344ffacc5fe84b6d5bc45d69aea1a2"
 
 [[files]]
 file = "config/tweakeroo.json"
@@ -258,7 +258,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "961844f416418678b032b0997e40b57f3e9963ce2df82cc4551e751baf74972f"
+hash = "413bc96e2045b448b427852841d6199228e59d9fe44b36c6d7b59a3cf8f3f5f1"
 metafile = true
 
 [[files]]
@@ -309,6 +309,11 @@ metafile = true
 [[files]]
 file = "mods/cobblemon-fight-or-flight-reborn.pw.toml"
 hash = "3475ecdb4cf940b52df03a2e08ff6eec45ffa6d4b0d916b3c488a37b4bca4c7f"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-held-items.pw.toml"
+hash = "407a74368a930714c5d945abee7e05bb68213e2877e00b41d71bc5c2e779512e"
 metafile = true
 
 [[files]]
@@ -492,11 +497,6 @@ hash = "a98fb339e93159901580ad6c9e3ee77fda266aff2a32bff9ef2746174eea1cf5"
 metafile = true
 
 [[files]]
-file = "mods/fastquit.pw.toml"
-hash = "c41a9f666f2c7dab19ca54c965ded82c47c7db752085c5ce798b8d25d82c12e6"
-metafile = true
-
-[[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "dabf0d5904403805098c87264a271da24603c2f5915f67707c75ceb68f44981c"
 metafile = true
@@ -518,7 +518,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "930582b9a57bea2770978bdd0e03e72a51fd1bed2626a0b5770d178c4d12ca31"
+hash = "cf6c6961eee1091b52d236db2c1996a521abd58065be02f11b434f4dcbe233e8"
 metafile = true
 
 [[files]]
@@ -747,6 +747,11 @@ hash = "ae55eda5b79aeb01fd4068cc34051019e34779c2d4748aba86e5dba522b7b61d"
 metafile = true
 
 [[files]]
+file = "mods/polymer.pw.toml"
+hash = "ae088bbe06df7bdebea9b4fd523879b1fb49a26baef9ef9ddbb4749f43df7b5f"
+metafile = true
+
+[[files]]
 file = "mods/polytone.pw.toml"
 hash = "31b27246343ea7b64d9fcf925e5f38a362b89608f1969a05440e25212badfc5a"
 metafile = true
@@ -783,7 +788,7 @@ metafile = true
 
 [[files]]
 file = "mods/rctapi.pw.toml"
-hash = "3c8bc9bbbb0b8b84533a7786151801a5153185e030093dd39bc3a3e8455b3b5a"
+hash = "d2cea01c105bb69f87812a8947e8559259130fef2becac2d134d897ab629e823"
 metafile = true
 
 [[files]]
