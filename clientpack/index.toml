@@ -30,7 +30,7 @@ hash = "ce3ac8ff936a42cfb78296b815e69aa74983f2de5000a32e9791ebde26c299b3"
 
 [[files]]
 file = "config/simpleupdatechecker_modpack.json"
-hash = "0c74e330eeebc3ddd57cf8f7aee478fc92b9f53b9acab7844171051ddcf8a498"
+hash = "87b9c1cfca58dc7e70a317a9b8be52d490ced5aaeebebf46a57cfb68e4ece26c"
 
 [[files]]
 file = "config/tweakeroo.json"
@@ -158,6 +158,11 @@ hash = "f371955401da14372701103a5625d696cb7b52bad29febe2b0aaf04f60cea820"
 metafile = true
 
 [[files]]
+file = "datapacks/cobblecenters-for-cobblemon.pw.toml"
+hash = "db2c7c6984ff2a642c0db9b7a002c7ab7be3132e38e8f6523333e6ded0b67c64"
+metafile = true
+
+[[files]]
 file = "datapacks/cobblemon-additions.pw.toml"
 hash = "07203a54b6c02483b20fcce133694ce4b36fd0b498d7335a47ec08099c1564e1"
 metafile = true
@@ -165,6 +170,16 @@ metafile = true
 [[files]]
 file = "datapacks/cobblemon-pokeloot.pw.toml"
 hash = "af907d7a127f7ebe3d166aa4257c3bb5227aafb1091837dbc8b341bfa7e56619"
+metafile = true
+
+[[files]]
+file = "datapacks/cobblemon-sniffers-diggin-up-relics.pw.toml"
+hash = "9842189c9dd449d0fac0bb578493fb9640b928db2129b30cef5f4eab6970975e"
+metafile = true
+
+[[files]]
+file = "datapacks/legendarystructures.pw.toml"
+hash = "a1d98c2f869bfdf6927f57fdef92681995cf8e81254092ac54690cf502230805"
 metafile = true
 
 [[files]]
@@ -989,8 +1004,8 @@ file = "resourcepacks/VanillaTweaks_r700713_MC1.21.x.zip"
 hash = "7e59a977b4d30039c48094a994e4f894abf53502c41857cf7de2541da843c3c5"
 
 [[files]]
-file = "resourcepacks/blues-better-monsters.pw.toml"
-hash = "3fa6bc97ca79e9b662255489e32fca45b9a8411aaca6c2e2757fa9050d80f7f7"
+file = "resourcepacks/animon-voices.pw.toml"
+hash = "d80d097840130842e11361b2602ab56151bf5e44ba45720e0746d4d582f2e680"
 metafile = true
 
 [[files]]

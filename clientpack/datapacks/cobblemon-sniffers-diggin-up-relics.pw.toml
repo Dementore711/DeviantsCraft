@@ -1,0 +1,13 @@
+name = "Cobblemon Sniffers Diggin' Up Relics"
+filename = "sniffers-diggin-up-relics-1.6-rc1.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZoYQuvLs/versions/5pQUT706/sniffers-diggin-up-relics-1.6-rc1.zip"
+hash-format = "sha512"
+hash = "c1ff04e77cd153b14898f76d7907177874f90123f3cd94d9108bd19a3c00286720910a2b50c6a2ae573e22148553143afbddf75aa75c45596f91e55a51721a50"
+
+[update]
+[update.modrinth]
+mod-id = "ZoYQuvLs"
+version = "5pQUT706"

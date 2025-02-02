@@ -1,0 +1,13 @@
+name = "Animon Voices"
+filename = "Animon Voices.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/yjNxo1Br/versions/TKu962B7/Animon%20Voices.zip"
+hash-format = "sha512"
+hash = "cc136853549459710d8ae421d0fd342b49f8c261957712c06e096c5bb1e847bba2f6a8acf3730051b3a3e25b0a025a0a096b6c14bd9ed94e456afb8209049eca"
+
+[update]
+[update.modrinth]
+mod-id = "yjNxo1Br"
+version = "TKu962B7"
