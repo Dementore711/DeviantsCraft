@@ -1,4 +1,0 @@
-# DeviantsCraft
-
-
-DeviantsCraft modpack

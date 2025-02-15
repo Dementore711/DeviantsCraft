@@ -1,0 +1,155 @@
+hash-format = "sha256"
+
+[[files]]
+file = "datapacks/allthemons.pw.toml"
+hash = "f371955401da14372701103a5625d696cb7b52bad29febe2b0aaf04f60cea820"
+metafile = true
+
+[[files]]
+file = "datapacks/cobblecenters-for-cobblemon.pw.toml"
+hash = "db2c7c6984ff2a642c0db9b7a002c7ab7be3132e38e8f6523333e6ded0b67c64"
+metafile = true
+
+[[files]]
+file = "datapacks/cobblemon-additions.pw.toml"
+hash = "07203a54b6c02483b20fcce133694ce4b36fd0b498d7335a47ec08099c1564e1"
+metafile = true
+
+[[files]]
+file = "datapacks/cobblemon-pokeloot.pw.toml"
+hash = "af907d7a127f7ebe3d166aa4257c3bb5227aafb1091837dbc8b341bfa7e56619"
+metafile = true
+
+[[files]]
+file = "datapacks/cobblemon-sniffers-diggin-up-relics.pw.toml"
+hash = "9842189c9dd449d0fac0bb578493fb9640b928db2129b30cef5f4eab6970975e"
+metafile = true
+
+[[files]]
+file = "datapacks/legendarystructures.pw.toml"
+hash = "a1d98c2f869bfdf6927f57fdef92681995cf8e81254092ac54690cf502230805"
+metafile = true
+
+[[files]]
+file = "datapacks/morerecipes-cobblemon.pw.toml"
+hash = "7ebb1f4357769f43f73e95ccba6a2dbe9a1bf2e713ee0ed57ec5a8db0d3ab5c7"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-fight-or-flight-reborn.pw.toml"
+hash = "3475ecdb4cf940b52df03a2e08ff6eec45ffa6d4b0d916b3c488a37b4bca4c7f"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-held-items.pw.toml"
+hash = "407a74368a930714c5d945abee7e05bb68213e2877e00b41d71bc5c2e779512e"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-integrations.pw.toml"
+hash = "326b3e13ba50a1c860e38d20a2a141976634ac818d7573004cf7f6b2fa466d43"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-move-inspector.pw.toml"
+hash = "7655c2066b628358f7388a690f3b492f94e27dbd571e42213ee18970d7452918"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-pokenav.pw.toml"
+hash = "0b07c13066d28c287c6dd63f743440289ff530616dbeffc101871435d120a976"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-ride-on!.pw.toml"
+hash = "30ed3033555d818c4e8d026160d6dc0f64cf16bfb8f38fe2d091bdebc5d78ef0"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-spawn-notification.pw.toml"
+hash = "a08580c0d0cf0dafd10c2b934ced367bb795be6b1d08b7fc532d0c037af15995"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon.pw.toml"
+hash = "fc8f794d5ec18979f4e17d9b456d4d5405151eedb4354e7118f9a14e5877793e"
+metafile = true
+
+[[files]]
+file = "mods/cobblepedia.pw.toml"
+hash = "4b48430430571dcafe9b60f64e3286161519f0416daa7215deb7468dcf107466"
+metafile = true
+
+[[files]]
+file = "mods/datapacks.pw.toml"
+hash = "ec85c153480d984fda1491e558f1367b026e82d38662fa4dcf58da454e472068"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "eec44311ce5411c0b989cbede163f1acbbd543ddbf894e5c2853d630504cec82"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "c56333eaa5d2075c976f33f55083f7553d051b53246c07c24caa49baf848a760"
+metafile = true
+
+[[files]]
+file = "mods/held-item-info.pw.toml"
+hash = "86ef2b9ef821ac11e0d7fdd07ee8d85b74dc08302cbeca928671bd8ce4c1455f"
+metafile = true
+
+[[files]]
+file = "mods/more-cobblemon-tweaks.pw.toml"
+hash = "61d5e8773284ffeeaada97b7df598bca664e1333841461c43ab598c59ea822f0"
+metafile = true
+
+[[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "eedefcefb935f2f4526f0f63d3a702a1594e747c34ded51df71bd64e76340e96"
+metafile = true
+
+[[files]]
+file = "mods/rctapi.pw.toml"
+hash = "d2cea01c105bb69f87812a8947e8559259130fef2becac2d134d897ab629e823"
+metafile = true
+
+[[files]]
+file = "mods/rctmod.pw.toml"
+hash = "299458ad40500114329e1debaa18d929502a49f272529d3103b205e3174ed8bb"
+metafile = true
+
+[[files]]
+file = "mods/tmcraft.pw.toml"
+hash = "5793554fe5bfb7b2af02c9439e702395ee94b8e626ada8d8dae912b2189db30e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/AllTheMons R2.1 V1.zip"
+hash = "5b4342c2812f72ee4db9a35507feba433a2c73b6dc38fca42cf7b53271c52316"
+
+[[files]]
+file = "resourcepacks/animon-voices.pw.toml"
+hash = "d80d097840130842e11361b2602ab56151bf5e44ba45720e0746d4d582f2e680"
+metafile = true
+
+[[files]]
+file = "resourcepacks/cobblemon-emissive-ores.pw.toml"
+hash = "f7ec4148b1e94aae9739cc1e135bb5452e0272a7e1f3187dce8fa6a980c65fe8"
+metafile = true
+
+[[files]]
+file = "resourcepacks/cobblemon-interface.pw.toml"
+hash = "5562e131499a2941c164919cd03e6c474ab9e418de32ea1548ee9aed663d15f4"
+metafile = true
+
+[[files]]
+file = "resourcepacks/e19_cobblemon_minimap_icons.pw.toml"
+hash = "bfb17ada66912300dd4113643bd31f61f5e495c6bc56709fc1dc74bbcd21d490"
+metafile = true
+
+[[files]]
+file = "resourcepacks/rct-trainer-textures-plus.pw.toml"
+hash = "e72ed75a53d8ed715f56998dcb6e82c1cdf806324926e3996b24a9ecc95766ef"
+metafile = true
