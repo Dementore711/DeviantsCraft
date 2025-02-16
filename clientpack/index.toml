@@ -30,7 +30,7 @@ hash = "ce3ac8ff936a42cfb78296b815e69aa74983f2de5000a32e9791ebde26c299b3"
 
 [[files]]
 file = "config/simpleupdatechecker_modpack.json"
-hash = "87b9c1cfca58dc7e70a317a9b8be52d490ced5aaeebebf46a57cfb68e4ece26c"
+hash = "2f4f18a2f4df578243d447b21926b85f3937bf7e76c9a7235b472daa06e57dab"
 
 [[files]]
 file = "config/tweakeroo.json"
@@ -323,17 +323,17 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-fight-or-flight-reborn.pw.toml"
-hash = "3475ecdb4cf940b52df03a2e08ff6eec45ffa6d4b0d916b3c488a37b4bca4c7f"
+hash = "aad372dc89070a1161a25556ffc25f6d86e0dbdf71915579c20cc6ab9018e3f2"
 metafile = true
 
 [[files]]
 file = "mods/cobblemon-held-items.pw.toml"
-hash = "407a74368a930714c5d945abee7e05bb68213e2877e00b41d71bc5c2e779512e"
+hash = "c161fae3e76f3cd3cc8dc01abfe45646431cf9456a7942575bf7542d3a6301dd"
 metafile = true
 
 [[files]]
 file = "mods/cobblemon-integrations.pw.toml"
-hash = "326b3e13ba50a1c860e38d20a2a141976634ac818d7573004cf7f6b2fa466d43"
+hash = "f535eba4ed46fcf4edea6be27d4556f1cc197e218b3e466ef11e93b20b8217b5"
 metafile = true
 
 [[files]]
@@ -358,12 +358,12 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon.pw.toml"
-hash = "fc8f794d5ec18979f4e17d9b456d4d5405151eedb4354e7118f9a14e5877793e"
+hash = "18f45db393d99493c00150c2d4a74d927fc1eccb575629ef1a1fa72ef950b7ff"
 metafile = true
 
 [[files]]
 file = "mods/cobblepedia.pw.toml"
-hash = "4b48430430571dcafe9b60f64e3286161519f0416daa7215deb7468dcf107466"
+hash = "8c85dd3c29b8f9f869752dc88505ea9c616fa4ee20e756378792985c061fd765"
 metafile = true
 
 [[files]]
@@ -627,6 +627,11 @@ hash = "bc042e0286c61fd964b49768b0f0f4c5f3ad322146ff2355962040c834ab0bde"
 metafile = true
 
 [[files]]
+file = "mods/livelierpokemon.pw.toml"
+hash = "478035475a4a63998b80b156fe7a4b1a8bc6e61b9086eec6fb655c912d21bd43"
+metafile = true
+
+[[files]]
 file = "mods/main-menu-credits.pw.toml"
 hash = "f15a42c616234a73c854d075f870f50250f158dce376e6fd13f5be437023ce80"
 metafile = true
@@ -798,12 +803,12 @@ metafile = true
 
 [[files]]
 file = "mods/rctapi.pw.toml"
-hash = "d2cea01c105bb69f87812a8947e8559259130fef2becac2d134d897ab629e823"
+hash = "3b141853050972ed589028af19f834ed21389f7a48fac048d427d343758e7b80"
 metafile = true
 
 [[files]]
 file = "mods/rctmod.pw.toml"
-hash = "299458ad40500114329e1debaa18d929502a49f272529d3103b205e3174ed8bb"
+hash = "ebb1188edad6b42b7e1489f03eccf7937925d70a0930f37b189a9e5f2a2e26cc"
 metafile = true
 
 [[files]]
@@ -903,7 +908,7 @@ metafile = true
 
 [[files]]
 file = "mods/tmcraft.pw.toml"
-hash = "5793554fe5bfb7b2af02c9439e702395ee94b8e626ada8d8dae912b2189db30e"
+hash = "1080deb6e14fb123a8d9cda94b77eea57adc6e9fdc552fc106baedbf5586b12d"
 metafile = true
 
 [[files]]
@@ -929,6 +934,11 @@ metafile = true
 [[files]]
 file = "mods/voicechat-soundboard.pw.toml"
 hash = "97b7c86366891221e505865b75f71e4ea0e8245c6b79613fc02d5953b203be36"
+metafile = true
+
+[[files]]
+file = "mods/voiceless-survival.pw.toml"
+hash = "a37bc18de74e685531fa2371fd994e180ed01f4658032ed45a3dad019b275815"
 metafile = true
 
 [[files]]
