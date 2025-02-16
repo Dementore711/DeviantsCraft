@@ -36,8 +36,8 @@ key_key.clienttweaks.disableStepAssist:key.keyboard.unknown
 key_key.clienttweaks.disableLogStripping:key.keyboard.unknown
 key_key.cobblemon.hideparty:key.keyboard.6
 key_key.cobblemon.summary:key.keyboard.4
-key_key.cobblemon.downshiftparty:key.keyboard.1
-key_key.cobblemon.upshiftparty:key.keyboard.3
+key_key.cobblemon.downshiftparty:key.keyboard.3
+key_key.cobblemon.upshiftparty:key.keyboard.1
 key_key.cobblemon.throwpartypokemon:key.keyboard.2
 key_key.fightorflight.startbattle:key.keyboard.5
 key_key.entityculling.toggle:key.keyboard.unknown

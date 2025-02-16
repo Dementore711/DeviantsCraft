@@ -1,13 +1,13 @@
 name = "Voice Chat Soundboard"
-filename = "svc-soundboard-0.7.0+1.21.jar"
+filename = "svc-soundboard-0.7.2+1.21.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/N8s60DWW/versions/TWcDjihU/svc-soundboard-0.7.0%2B1.21.jar"
+url = "https://cdn.modrinth.com/data/N8s60DWW/versions/S53p3KBG/svc-soundboard-0.7.2%2B1.21.jar"
 hash-format = "sha512"
-hash = "f0b453ab77c029da76ae12a9fc5006f936a4ae7b22634080aa3043097a32c18ba081d77c406b721ffb7b2c6404247577fca69f94e76f4bf53f41e579e5ece752"
+hash = "4d767c19635b26846884b8387c018ef2571386cde79fdf83c5df457b27eab4201e4df1eaee60108519de4ce302165a64c4df38512a6ce2bd6ef8447f441e4633"
 
 [update]
 [update.modrinth]
 mod-id = "N8s60DWW"
-version = "TWcDjihU"
+version = "S53p3KBG"

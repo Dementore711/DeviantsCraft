@@ -1,13 +1,13 @@
 name = "Animon Voices"
-filename = "Animon Voices.zip"
+filename = "Animon Voices Ambient.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/yjNxo1Br/versions/TKu962B7/Animon%20Voices.zip"
+url = "https://cdn.modrinth.com/data/yjNxo1Br/versions/uJEybsuQ/Animon%20Voices%20Ambient.zip"
 hash-format = "sha512"
-hash = "cc136853549459710d8ae421d0fd342b49f8c261957712c06e096c5bb1e847bba2f6a8acf3730051b3a3e25b0a025a0a096b6c14bd9ed94e456afb8209049eca"
+hash = "0b092f241c2b5148759aec23b0a1b3acaccb4eff85f977b4850473d4d972fe40ceeca5e587140b4db7cdb350c5c0b59f41dd0989ee0de6c980e2e8e219086080"
 
 [update]
 [update.modrinth]
 mod-id = "yjNxo1Br"
-version = "TKu962B7"
+version = "uJEybsuQ"
