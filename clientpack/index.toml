@@ -146,7 +146,7 @@ hash = "37aaf52aa7545527c7ade71ac77ad2fcf6019995bf58b6ea1fe0f52949919d18"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "0bf5ee8bb02206204d7d03d34333e4d8ae4742fd114608f1c815cff4c93c7221"
+hash = "805679ce02bb1f41b2b3f414446d08ab1e12f9e067828db2c253c58207146c87"
 
 [[files]]
 file = "credits.txt"
@@ -913,7 +913,7 @@ metafile = true
 
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
-hash = "ffa50bbdec70b2ac78066858924e4c96da9210796b2584b78a8de1e0a838825d"
+hash = "6cb75188c3383970dde9e12c1154db2e1002ae6b7a9c547ed1774caee894c184"
 metafile = true
 
 [[files]]
