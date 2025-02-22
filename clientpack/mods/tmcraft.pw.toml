@@ -1,13 +1,13 @@
 name = "TMCraft"
-filename = "tmcraft-1.4.7+1.6.1.jar"
+filename = "tmcraft-1.4.8+1.6.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/HU6mkUZs/versions/bSw8VnRp/tmcraft-1.4.7%2B1.6.1.jar"
+url = "https://cdn.modrinth.com/data/HU6mkUZs/versions/s1kRUhTJ/tmcraft-1.4.8%2B1.6.1.jar"
 hash-format = "sha512"
-hash = "b9539b757625747ef5a80bd302634b4df1d1a68b5efba8198228edac5a3b641d2ad463fe70647cebea1e12db34d593afbc801d44d7c22de51ea736067bc3d589"
+hash = "79e58e9adaaafb3d68c1284b2a03e8cbcfbc156ba426a1285bdd0ee892097083d9b3b034a17c01c5696081768f3ff0e3ed4b4bcae58cdb236a121256cd67b1cd"
 
 [update]
 [update.modrinth]
 mod-id = "HU6mkUZs"
-version = "bSw8VnRp"
+version = "s1kRUhTJ"

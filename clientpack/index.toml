@@ -9,6 +9,10 @@ file = "config/chatpatches.json"
 hash = "9e0dc7822855756d70f9e0e47c0d0788676a1914d4333052289634eb4e8d4150"
 
 [[files]]
+file = "config/customwindowtitle-client.toml"
+hash = "42d75c265d59de086662dd39dc9c1ff50c5f6b4d8e230385d78a2b13244d5afc"
+
+[[files]]
 file = "config/fabric_loader_dependencies.json"
 hash = "fe63a0c69fe5106cdedc65916c98430be40441ccd0172d96805f40247eadc163"
 
@@ -30,7 +34,7 @@ hash = "ce3ac8ff936a42cfb78296b815e69aa74983f2de5000a32e9791ebde26c299b3"
 
 [[files]]
 file = "config/simpleupdatechecker_modpack.json"
-hash = "2f4f18a2f4df578243d447b21926b85f3937bf7e76c9a7235b472daa06e57dab"
+hash = "91d8d1a78c8d8490b7209a1e42dcb5690463182999d24c629e0d299538dcf6b6"
 
 [[files]]
 file = "config/tweakeroo.json"
@@ -223,7 +227,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "79659a9d52c19ad0c56771356fe9ca457e20f7636894695a2b7a9609ab21720f"
+hash = "1823762f21453e83add1bb16b700401d811dbb0a2cbaf76bd63ded94ff03127f"
 metafile = true
 
 [[files]]
@@ -254,6 +258,11 @@ metafile = true
 [[files]]
 file = "mods/better-stats.pw.toml"
 hash = "7af283ca94e8d0d24a7c5b5fd43c0b5c4bc4300c00754ae40dfb0b5d44ea6a17"
+metafile = true
+
+[[files]]
+file = "mods/better-third-person.pw.toml"
+hash = "dd18db1413980ef467ac2e86c7e5f3cef26d366119f43121204a442583e7c0bd"
 metafile = true
 
 [[files]]
@@ -288,7 +297,7 @@ metafile = true
 
 [[files]]
 file = "mods/cardinal-components-api.pw.toml"
-hash = "b4e70e0d9c83d816fbe8b1aafcbf78e3a8f07174d4af7778addb323b374647bd"
+hash = "56d0a735ef8c0bfe4ee06bfa66cd11753002c98411eb167cad68f8adcbd76d0a"
 metafile = true
 
 [[files]]
@@ -308,7 +317,7 @@ metafile = true
 
 [[files]]
 file = "mods/client-tweaks.pw.toml"
-hash = "1e723e1f88ce7a34bce4c8af6d6bd904a81a854bbb3d5686ef109030be5ee14e"
+hash = "d3472b9fb7ba6babaebf7c5d1f8d04501472ab687c8f32af0f10a5e5eb97ef38"
 metafile = true
 
 [[files]]
@@ -368,7 +377,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "42f218e9224754a2d344f584433b43b67b7c0400aca3feba07cd344a1ca228ae"
+hash = "f5904550fc1141e81b6f0333cbb252816b3c13459b7a08c317d0259fddc1f8c4"
 metafile = true
 
 [[files]]
@@ -394,6 +403,11 @@ metafile = true
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "24e02eb06e070c2c3bc9f2dde186761ecff41ee98a53f9599cf524683e6c1dc2"
+metafile = true
+
+[[files]]
+file = "mods/custom-window-title.pw.toml"
+hash = "0ef987c3862168f8af8a591105c85855a557c1e9ee2b08fea4dd3bffb6c77572"
 metafile = true
 
 [[files]]
@@ -483,7 +497,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "3a8e36009ad7c6716b93387238ad78474d1dbb8e0adecbc4c2e0d2762c4c6ef7"
+hash = "fe95430d433104d44c741c22d8f4d0db4678756311acacccddec49e3a39a4091"
 metafile = true
 
 [[files]]
@@ -509,6 +523,11 @@ metafile = true
 [[files]]
 file = "mods/fast-trading.pw.toml"
 hash = "a98fb339e93159901580ad6c9e3ee77fda266aff2a32bff9ef2746174eea1cf5"
+metafile = true
+
+[[files]]
+file = "mods/fastquit.pw.toml"
+hash = "c41a9f666f2c7dab19ca54c965ded82c47c7db752085c5ce798b8d25d82c12e6"
 metafile = true
 
 [[files]]
@@ -818,12 +837,12 @@ metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "23994df81b19e11e563083bfb7f5b5939d2a244d2e7708cc30b459ae5ab2acc5"
+hash = "0a5ac09659d6565197829af0d2b6e8caa0f0aa5dac123e75c5846bf10914b9ed"
 metafile = true
 
 [[files]]
 file = "mods/remote-player-waypoints-for-xaeros-map.pw.toml"
-hash = "8018135fbb15d7ec7c61cbffcff83b8a5e387ec8eb9fd315edb34ad0daed0bb1"
+hash = "fd529e1414bd356d8e405a877bc9a97981fcc4bc94d67d0d7ca62aa250000ab7"
 metafile = true
 
 [[files]]
@@ -908,7 +927,7 @@ metafile = true
 
 [[files]]
 file = "mods/tmcraft.pw.toml"
-hash = "1080deb6e14fb123a8d9cda94b77eea57adc6e9fdc552fc106baedbf5586b12d"
+hash = "4c7d8590740f7c31e1ea3c56e3584f1d3036a9148efa6f65b043da79ab7eed18"
 metafile = true
 
 [[files]]
@@ -918,7 +937,7 @@ metafile = true
 
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
-hash = "6cb75188c3383970dde9e12c1154db2e1002ae6b7a9c547ed1774caee894c184"
+hash = "3b1a63515c8b0633dfa21984f41340d730f5b39c40bbce101fabea2efadec684"
 metafile = true
 
 [[files]]
@@ -968,7 +987,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "7bf3eeb3aa4a6520153143deaabfd71ee8df80080409ca6787e10d6df2e9a6f6"
+hash = "1807fbe474298e2ef5bab6cf77187f01017c61166fc57c335b26d9217d8b2172"
 metafile = true
 
 [[files]]
@@ -1002,7 +1021,7 @@ hash = "97be1968963ad5b978c4e0a95d7ad7005b67260286a037ee553db25b10f9061e"
 
 [[files]]
 file = "resourcepacks/Translations_for_Sodium.pw.toml"
-hash = "902a8676c652fd5480b7cc0dce2fa4acc8a821a3cab69a38f78474a1b2a0f234"
+hash = "d494d96fd2da8af4ed1448028a323ecf5a6e3a7f74661b5617e1f2ac0ac35bb6"
 metafile = true
 
 [[files]]
@@ -1031,7 +1050,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/e19_cobblemon_minimap_icons.pw.toml"
-hash = "3cc01743b43710c76b7f3c7219186d0872eba7ef34c3e3fd2027907f8740bd3a"
+hash = "49322ed4e643ca538592310c50698c2023e54cb617b10d48f27edf36545641a6"
 metafile = true
 
 [[files]]
