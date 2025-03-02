@@ -34,7 +34,7 @@ hash = "ce3ac8ff936a42cfb78296b815e69aa74983f2de5000a32e9791ebde26c299b3"
 
 [[files]]
 file = "config/simpleupdatechecker_modpack.json"
-hash = "ecb72a16dcea187e024eb74198e5c02fcb354bcdb333b402b75cf08f7adee693"
+hash = "586a9296e4faab5521a3d2c417f05c5a80f196fa439fe060136ecb85e6c6b8ef"
 
 [[files]]
 file = "config/tweakeroo.json"
@@ -150,11 +150,15 @@ hash = "37aaf52aa7545527c7ade71ac77ad2fcf6019995bf58b6ea1fe0f52949919d18"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "805679ce02bb1f41b2b3f414446d08ab1e12f9e067828db2c253c58207146c87"
+hash = "4d226d0788d032f3946b80518d294bb8ce0c061db159ff3d0fe8cc27feb1930f"
 
 [[files]]
 file = "credits.txt"
 hash = "7dc1fcbe07da8190aa42d65c1812fdb17c7324366cd10f03b1624c118487976d"
+
+[[files]]
+file = "datapacks/AllTheMonsIgnited_Feb24.zip"
+hash = "1633be4bfc996803b6ded1d7c31376b3e07347619fed2db6e42e027cb900a0b3"
 
 [[files]]
 file = "datapacks/allthemons.pw.toml"
@@ -168,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "datapacks/cobblemon-additions.pw.toml"
-hash = "07203a54b6c02483b20fcce133694ce4b36fd0b498d7335a47ec08099c1564e1"
+hash = "f0469bf0abd10caa503128ed24416a3e20aea653ce2fb4e9be98a6396d760a56"
 metafile = true
 
 [[files]]
@@ -362,7 +366,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-spawn-notification.pw.toml"
-hash = "a08580c0d0cf0dafd10c2b934ced367bb795be6b1d08b7fc532d0c037af15995"
+hash = "e5d2295cbf94ff1e0867e0c11845580d73f8ad3aa9b6ef5b34ef86d383453f30"
 metafile = true
 
 [[files]]
@@ -497,7 +501,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "6bee1cb439f4f108321f55bf38c7334c931a89cada807c67f0345ab6f13d48f1"
+hash = "ff86d6ac77d7c16046f252f76de17a82639f256503ec58daf10fd3b0f332f653"
 metafile = true
 
 [[files]]
@@ -897,7 +901,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound.pw.toml"
-hash = "5fa2bb6167b64bd069c0712d35b874c1f5e7f8651137ed60855fda688945e75a"
+hash = "65a5e3bd1d4fc5bbed4520a54c652b0706661f9a261d949a85d7dbe9a3c74103"
 metafile = true
 
 [[files]]
@@ -992,7 +996,7 @@ metafile = true
 
 [[files]]
 file = "mods/yet_another_config_lib_v3.pw.toml"
-hash = "209509c14cd05fe1ea51ed2c4e689a4d0604cbbf186cb25ca4d3b375530605b1"
+hash = "e71cb7e43df3984a668e02397316d229c79a40dd472b0c22ab795d71ffcaa5b5"
 metafile = true
 
 [[files]]
@@ -1004,6 +1008,10 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "1929bccec0112c3a5e87a8e878d2b330077f834fd513058cd4c8ff4ef9e6381e"
 metafile = true
+
+[[files]]
+file = "resourcepacks/AllTheMonsIgnited_Feb24.zip"
+hash = "1633be4bfc996803b6ded1d7c31376b3e07347619fed2db6e42e027cb900a0b3"
 
 [[files]]
 file = "resourcepacks/Chat_Reporting_Helper.pw.toml"

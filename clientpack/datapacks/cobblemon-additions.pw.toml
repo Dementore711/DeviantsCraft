@@ -1,13 +1,13 @@
 name = "Cobblemon additions"
-filename = "BCA-Datapack_1.6.3.1_C1.6_M1.21.1.zip"
+filename = "BCA-Datapack-3.4_GE_C1.6.1_M1.21.1.zip"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/W2pr9jyL/versions/mINP4dCd/BCA-Datapack_1.6.3.1_C1.6_M1.21.1.zip"
+url = "https://cdn.modrinth.com/data/W2pr9jyL/versions/vCGTxY0S/BCA-Datapack-3.4_GE_C1.6.1_M1.21.1.zip"
 hash-format = "sha512"
-hash = "8cef6635e0d824123016762a96de32648834d550966085afbb5a3115bdc179a683014dda74648a2861299b118d1070d35989b675cf41cc0dfbf87f6e4b501084"
+hash = "4627ea169b77c0b14e64da5c432ff9822c6bb29e3a02d7a84480755ea6bf4aa5107a67702303f80149c97607ddfa25cdedaf9fc0ed0b4445281c59973715367c"
 
 [update]
 [update.modrinth]
 mod-id = "W2pr9jyL"
-version = "mINP4dCd"
+version = "vCGTxY0S"
