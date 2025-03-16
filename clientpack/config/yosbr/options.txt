@@ -34,6 +34,7 @@ key_key.carry.desc:key.keyboard.unknown
 key_key.clienttweaks.hideOffhandItem:key.keyboard.unknown
 key_key.clienttweaks.disableStepAssist:key.keyboard.unknown
 key_key.clienttweaks.disableLogStripping:key.keyboard.unknown
+key_key.more_cobblemon_tweaks.open_config:key.keyboard.unknown
 key_key.cobblemon.hideparty:key.keyboard.6
 key_key.cobblemon.summary:key.keyboard.4
 key_key.cobblemon.downshiftparty:key.keyboard.3

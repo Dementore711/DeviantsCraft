@@ -21,6 +21,10 @@ file = "config/isxander-main-menu-credits.json"
 hash = "7506e1c077a7bcee7a9bc149d3823e2310a037d2b3a941fccd0b5abfe44dbf67"
 
 [[files]]
+file = "config/kiss/config.json5"
+hash = "438ebe6d88dd227602e8b3d9a2b773843b917feae31fc81f2cb5763e8c64f9b2"
+
+[[files]]
 file = "config/minihud.json"
 hash = "b642d3a2edf3709e753042efe830f3e08fffae03012b1da4074286d606420721"
 
@@ -34,7 +38,7 @@ hash = "ce3ac8ff936a42cfb78296b815e69aa74983f2de5000a32e9791ebde26c299b3"
 
 [[files]]
 file = "config/simpleupdatechecker_modpack.json"
-hash = "586a9296e4faab5521a3d2c417f05c5a80f196fa439fe060136ecb85e6c6b8ef"
+hash = "b32068a5d96927e69a4d02c316e649b30033eb73f06f4b4de627904a3988b6c7"
 
 [[files]]
 file = "config/tweakeroo.json"
@@ -150,7 +154,7 @@ hash = "37aaf52aa7545527c7ade71ac77ad2fcf6019995bf58b6ea1fe0f52949919d18"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "4d226d0788d032f3946b80518d294bb8ce0c061db159ff3d0fe8cc27feb1930f"
+hash = "8242712636e271b45c4f9fb0f5bcfcb4fb40ae6a1390640881f7308878488436"
 
 [[files]]
 file = "credits.txt"
@@ -172,12 +176,12 @@ metafile = true
 
 [[files]]
 file = "datapacks/cobblemon-additions.pw.toml"
-hash = "f0469bf0abd10caa503128ed24416a3e20aea653ce2fb4e9be98a6396d760a56"
+hash = "eb5c5c1a58190310d6076bcdca77917e524799a1a2463435de9aaece2254210d"
 metafile = true
 
 [[files]]
 file = "datapacks/cobblemon-pokeloot.pw.toml"
-hash = "af907d7a127f7ebe3d166aa4257c3bb5227aafb1091837dbc8b341bfa7e56619"
+hash = "7e4d815dfa68a973c27544f10a6185cc726e1b2416e9e5a0ff694e70afd92f4e"
 metafile = true
 
 [[files]]
@@ -286,12 +290,12 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "195a6de439690f8d31bcd58f825fea0336bf7bb6c5d903697a5bdfbb7e188155"
+hash = "f0c9a87afafcb1a3a7057f6870e6ca0532d6d9bc1f7cfe660af22e697a5ba238"
 metafile = true
 
 [[files]]
 file = "mods/cameraoverhaul.pw.toml"
-hash = "eaff64f5d4d1e6a13e75eb721a32167d2d9454acbe8513707c605fa70b0ada46"
+hash = "fe6c33d686ebefb1e16255cea1b29c6df01d5698d5afb122b70fa5963edcb406"
 metafile = true
 
 [[files]]
@@ -336,7 +340,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-fight-or-flight-reborn.pw.toml"
-hash = "aad372dc89070a1161a25556ffc25f6d86e0dbdf71915579c20cc6ab9018e3f2"
+hash = "8bfd174173036e46317c87c39f71bcb30b22a3920fd9eba026a1876078200437"
 metafile = true
 
 [[files]]
@@ -366,7 +370,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-spawn-notification.pw.toml"
-hash = "e5d2295cbf94ff1e0867e0c11845580d73f8ad3aa9b6ef5b34ef86d383453f30"
+hash = "3128bb82c653dc13a6c0289e8dadcf933a58b3baa67c8dcd0213fbb2c1183795"
 metafile = true
 
 [[files]]
@@ -381,7 +385,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "874f578662fd07d02038e7d31e475ed9e1bbda2be31d5067cba21440289e68d8"
+hash = "e94bd41a54a72723e283df0c6a870c7baef0fa38ee9099842470f9fd10fc7e70"
 metafile = true
 
 [[files]]
@@ -396,7 +400,7 @@ metafile = true
 
 [[files]]
 file = "mods/coroutil.pw.toml"
-hash = "455d633469dbcd76deca1297e4db65322e66fefe62b2df5a1752e027384b7c3b"
+hash = "363b6a77d7f7802a58aecd51e932745b0ab663a5810a681b654e2f3584ac11b1"
 metafile = true
 
 [[files]]
@@ -411,7 +415,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom-window-title.pw.toml"
-hash = "0ef987c3862168f8af8a591105c85855a557c1e9ee2b08fea4dd3bffb6c77572"
+hash = "09d3121e0f62df0f7543ec669a7d2465ccc257f8ece46eaa37c0d8597ec36c15"
 metafile = true
 
 [[files]]
@@ -435,6 +439,16 @@ hash = "225747eea8d2f9d3103f75e48377502985a856dc7b52994e1851525c1d68ad68"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "ca7aaf32075a904c16620da9892290c28b10abba05673fa30781422393b02a6a"
+metafile = true
+
+[[files]]
+file = "mods/draggable-lists.pw.toml"
+hash = "50de1919e6cc3104a4a2557b0644c15f5a56722cf76a19b194ec6ecf61bcae13"
+metafile = true
+
+[[files]]
 file = "mods/durability-plus.pw.toml"
 hash = "4df86a1620217251fc0c2bd6971a207bd3745db6f729b2175818948f43fc9e6e"
 metafile = true
@@ -447,11 +461,6 @@ metafile = true
 [[files]]
 file = "mods/e4mc_minecraft.pw.toml"
 hash = "4c00fc0331782a15f835cb3ca5b4d7b5b2bb9d4212914a6255e905ccb6b1b407"
-metafile = true
-
-[[files]]
-file = "mods/eclipses-tweakeroo-additions.pw.toml"
-hash = "94bb32bdca3c20f9b910dcd3f5f3c4ef112c77dfd7f4c5940065cb20f4e63308"
 metafile = true
 
 [[files]]
@@ -546,7 +555,7 @@ metafile = true
 
 [[files]]
 file = "mods/friends-and-foes.pw.toml"
-hash = "96339d27729d5a73360eb2d9e5e9b92b146f0968e485a743c7eea839dff28fa3"
+hash = "84e1cdd332ce641ec23e768d23c6ef14a4bb6cd6fdc35314d8510b3427ab21cb"
 metafile = true
 
 [[files]]
@@ -556,12 +565,12 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "516d90166c8b7ce7393d4926aaff6eae6dcdc0966b16338d4ecb51dd2a4b118c"
+hash = "d4ebde657a2201455a13405b549eb06a272171eaf399ff1c9928a5df96600283"
 metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "015b568ddff1edf0d756a1ce9a9df0b83e417764e01ac04ba7e68acb0cc847b5"
+hash = "a0a4120479b3a00265797ba4ab4b351e7ea6730f1a0394d069da0d92165a3bd9"
 metafile = true
 
 [[files]]
@@ -641,7 +650,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "18cb7175c008b0abc8e60875504d800ed3c00893225b25400031e7b52f3138d8"
+hash = "6f4665f1684aed12b53927753b4f7e15e57ed2cd81ace6db227f5dc704841c2d"
 metafile = true
 
 [[files]]
@@ -651,7 +660,7 @@ metafile = true
 
 [[files]]
 file = "mods/livelierpokemon.pw.toml"
-hash = "ef69a5caef9e87965b37c1b54266befb3187116b2799f14081eb8866d9538faf"
+hash = "72fed166ded9968b31de0307e94052f5c1258d9308cdbd5fb8d6d3ac07649856"
 metafile = true
 
 [[files]]
@@ -661,12 +670,12 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "4c8868f5a6e947f48d8d90d8e9a19ee349b3882da09ff0eb8b3b2c39545cfebf"
+hash = "67a8e6384e83bdd773822fa894542f9b1e7373bb2fc10196f739f914702c6243"
 metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "e0b00c3f81947befb1f7b7424b16461b2805cb344e66542b868fd62c645bca56"
+hash = "18cfd02f268502966a31efea316aebf26edeb701286bd9eee1b7dd5b027a6381"
 metafile = true
 
 [[files]]
@@ -746,7 +755,7 @@ metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
-hash = "22d2bd35f4752e53e7604168881af536589e1a29df882bc0f2431e38912a58ec"
+hash = "de69555290a44328b84aa51aa404de093588ae36ba656a74729453fe66323f2b"
 metafile = true
 
 [[files]]
@@ -816,7 +825,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "b7e4ce4485ede1049ffdb62a7c6e7213a8903a0d19f6b567e8b4167b0425dced"
+hash = "20296ad2a5cef33be0bf261a4d4468ba56a3fe989229fd529f8c2264e34bb4e5"
 metafile = true
 
 [[files]]
@@ -826,12 +835,12 @@ metafile = true
 
 [[files]]
 file = "mods/rctapi.pw.toml"
-hash = "3b141853050972ed589028af19f834ed21389f7a48fac048d427d343758e7b80"
+hash = "5d9e307a142b42ce53fa719c03ec1175a0a561cf6eece86c92e1d42b84592318"
 metafile = true
 
 [[files]]
 file = "mods/rctmod.pw.toml"
-hash = "ebb1188edad6b42b7e1489f03eccf7937925d70a0930f37b189a9e5f2a2e26cc"
+hash = "bdd7f014480beabe4eb79aa87aae769650dcd4da94ba4cf12d1c08e4e88350a3"
 metafile = true
 
 [[files]]
@@ -901,7 +910,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound.pw.toml"
-hash = "65a5e3bd1d4fc5bbed4520a54c652b0706661f9a261d949a85d7dbe9a3c74103"
+hash = "c3df08f3cdcda2f0eaf8594885163dfea8a12768a0e02edba21c263bda9172c0"
 metafile = true
 
 [[files]]
@@ -941,12 +950,12 @@ metafile = true
 
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
-hash = "3b1a63515c8b0633dfa21984f41340d730f5b39c40bbce101fabea2efadec684"
+hash = "8eb8d9eefeee9120de56ee1bcf14ce22f0f665754bb7633702921e238d271073"
 metafile = true
 
 [[files]]
 file = "mods/tweakeroo.pw.toml"
-hash = "1be43bf5478f2f2e145266bd11e0b90c0025caf0f90e6c4990aad4ad2e110911"
+hash = "62769ec5701008e3897061dafbf805c15db0ea9c202179cb10bbd2fd552aaa26"
 metafile = true
 
 [[files]]
@@ -971,7 +980,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "50784f7f47a26431af90e639bccd79fad0cfdf96c455c8794c0dc5acb332bb21"
+hash = "92b4789a879513a8754cd8e6863c74270b726d29d1226a3e6624e900ff309ad2"
 metafile = true
 
 [[files]]
@@ -986,7 +995,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "a28eee797fa074ee2a7e056bf24d5dd9c9df2ef20dfca713f167d160a0fad9af"
+hash = "374f0436bbbee517b5fbc976b226aa097b1733551850b8c880bf68e6563b18f9"
 metafile = true
 
 [[files]]
@@ -1011,11 +1020,11 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/AllTheMonsIgnited_Feb24.zip"
-hash = "1633be4bfc996803b6ded1d7c31376b3e07347619fed2db6e42e027cb900a0b3"
+hash = "ed9a4e0d85f38f3041d632eab26eef2c989d4770df88a3ebae1ebaa6143b396b"
 
 [[files]]
 file = "resourcepacks/Chat_Reporting_Helper.pw.toml"
-hash = "3a33952de65d450c775ecda6ba7f1ce514b3a7a38cad08decffb7dcb4b7a2c4e"
+hash = "20630203e7b77ba9846562b8c3890d3e0ac8f9e9b87f481e7096008dba674eb4"
 metafile = true
 
 [[files]]
@@ -1029,7 +1038,7 @@ hash = "ccb68e290daa8f91acd26745a3ffccf714ba2e234ae5cc61056fad0b171491ae"
 
 [[files]]
 file = "resourcepacks/Translations_for_Sodium.pw.toml"
-hash = "d494d96fd2da8af4ed1448028a323ecf5a6e3a7f74661b5617e1f2ac0ac35bb6"
+hash = "84af954dfc0652254e6c488576cf668dfe9a53e2a55bf5134f0aa987ad586065"
 metafile = true
 
 [[files]]
@@ -1058,7 +1067,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/e19_cobblemon_minimap_icons.pw.toml"
-hash = "d8e39953e516327a1593c8bdc57bce929df4fc6acb4d3bbee0daf5ef1e3590da"
+hash = "a9085bdca612598203c5fa7c5c6c06a9e33cd24a8fb6e1e727413c2722e4d4eb"
 metafile = true
 
 [[files]]

@@ -1,13 +1,13 @@
 name = "PokeLoot [Cobblemon]"
-filename = "CobblemonPokeLoot 1.6.zip"
+filename = "CobblemonPokeLoot 1.7.zip"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/KP2IZrd5/versions/mh9MOuIz/CobblemonPokeLoot%201.6.zip"
+url = "https://cdn.modrinth.com/data/KP2IZrd5/versions/yEjQcjg4/CobblemonPokeLoot%201.7.zip"
 hash-format = "sha512"
-hash = "b8bad522c6f5866eead7a84a252f2ae7b468961dd6f2f9c2c12fecd14ffc7a904985a12b3b57b897898ad0675a4a69c04982716ea41a4bec999f0675379c2e48"
+hash = "2bc2560ef813651682c39ae658573cebb4cb22c752f394362f435a765620ace4583c84c12dd51a9ed995e4be9b13ca98ec9a01e602e352b339bd302aa576ce9d"
 
 [update]
 [update.modrinth]
 mod-id = "KP2IZrd5"
-version = "mh9MOuIz"
+version = "yEjQcjg4"
