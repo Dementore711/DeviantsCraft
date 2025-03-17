@@ -510,7 +510,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "ff86d6ac77d7c16046f252f76de17a82639f256503ec58daf10fd3b0f332f653"
+hash = "e4c09a4bae742c95550964bae4b83e5c44ca5913d464d84d885f8b8fc2b2f7d4"
 metafile = true
 
 [[files]]
@@ -565,7 +565,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "d4ebde657a2201455a13405b549eb06a272171eaf399ff1c9928a5df96600283"
+hash = "fdf65254b212f6f7ca9720e7ed140bac478efdd89f4313816557d1dc828e0852"
 metafile = true
 
 [[files]]
@@ -825,7 +825,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "20296ad2a5cef33be0bf261a4d4468ba56a3fe989229fd529f8c2264e34bb4e5"
+hash = "fb8c82bd41ae3eccb939cc7dae2d805171d7575ccfc6788591e96ab4097655a0"
 metafile = true
 
 [[files]]
@@ -840,7 +840,7 @@ metafile = true
 
 [[files]]
 file = "mods/rctmod.pw.toml"
-hash = "bdd7f014480beabe4eb79aa87aae769650dcd4da94ba4cf12d1c08e4e88350a3"
+hash = "3fb7c1199845c2ee76e5ee0e99ed782f8ecbdc7e3b13001ab9ff949cb14fdd4f"
 metafile = true
 
 [[files]]
@@ -985,7 +985,7 @@ metafile = true
 
 [[files]]
 file = "mods/what-are-they-up-to.pw.toml"
-hash = "935be1426f9fd50cf30a6953142eb490cb4b445e1739d5552d074828b69e2ba6"
+hash = "15ec43924ee53b29e4206f94c576743f6d6b1f10e57a926123e7f3368bfac0ea"
 metafile = true
 
 [[files]]
