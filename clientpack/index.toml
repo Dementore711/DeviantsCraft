@@ -38,7 +38,7 @@ hash = "ce3ac8ff936a42cfb78296b815e69aa74983f2de5000a32e9791ebde26c299b3"
 
 [[files]]
 file = "config/simpleupdatechecker_modpack.json"
-hash = "3a38f65c4b2474e382e07248bd75693788b4776c5ff4661fdba493755b065318"
+hash = "30002ecbbeec27fbd13546a1949b003f0dbfd34adc1a4cfb6f3afc6341afbebb"
 
 [[files]]
 file = "config/tweakeroo.json"
@@ -341,6 +341,11 @@ metafile = true
 [[files]]
 file = "mods/cobblemon-fight-or-flight-reborn.pw.toml"
 hash = "8bfd174173036e46317c87c39f71bcb30b22a3920fd9eba026a1876078200437"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-fight-them-all.pw.toml"
+hash = "21360b05b9f4de81a0e58521e543ee7f947752792e1337e4c603e55adba8ee6b"
 metafile = true
 
 [[files]]
