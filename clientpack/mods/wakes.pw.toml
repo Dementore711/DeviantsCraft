@@ -1,13 +1,13 @@
 name = "Wakes"
-filename = "wakes-0.4.0+1.21.1.jar"
+filename = "wakes-0.4.1+1.21.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/dlNu0RQY/versions/HIoFb0DP/wakes-0.4.0%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/dlNu0RQY/versions/WuY7eJX9/wakes-0.4.1%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "97d3d53fe03affb4523e18df854028d7f5dc4933968584aaf2d363b1e73046d806e06fcf0f18a1373df4c99bbaf9db927e3dd4e19a3786efb452275bb2626096"
+hash = "cccf8e69c2e3d9abcf73e9ed618edb39a3a41f89c8b35292c6cbccfec8c439bb1a9101ecf82b154fa8901ae2dbec6045468b56f12e14a7955a0b8af49157a451"
 
 [update]
 [update.modrinth]
 mod-id = "dlNu0RQY"
-version = "HIoFb0DP"
+version = "WuY7eJX9"
