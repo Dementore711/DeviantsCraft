@@ -1,12 +1,12 @@
 name = "DeviantsCraft"
 author = "Dementore711"
-version = "1.3.8"
+version = "1.3.9"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "e38123de5de508b10ad41170b818bfdc6f10947dab914fe2e5c2c31f322c084c"
+hash = "a5481be39b3d39be01a00059619da1a9bb17599a5e63f1c669455200a6aff912"
 
 [versions]
 fabric = "0.16.10"
