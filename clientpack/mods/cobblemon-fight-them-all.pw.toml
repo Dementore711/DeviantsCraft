@@ -1,13 +1,13 @@
 name = "Cobblemon: Fight Them All"
-filename = "cobblemon-fight-them-all-1.0.2+cobblemon-1.6.1.jar"
+filename = "cobblemon-fight-them-all-1.0.3+cobblemon-1.6.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/CTXZvByu/versions/V7a0OxT9/cobblemon-fight-them-all-1.0.2%2Bcobblemon-1.6.1.jar"
+url = "https://cdn.modrinth.com/data/CTXZvByu/versions/wwAsgkk2/cobblemon-fight-them-all-1.0.3%2Bcobblemon-1.6.1.jar"
 hash-format = "sha512"
-hash = "0b237d8f93bf4382385fa7e694d25922a39b96dd571b00913531a6cc5a71efd49339bd4b7985bab87fd1b42c9f6eebeda522c6ec446515d6345870aba0732672"
+hash = "4be4240bfecc3019cb8ba0b3d3fd509f2360604e3723473008404e9ad3c037229386a14382e2c8c863afdf8963a0998cde51fa62425efb03308705e68fff3deb"
 
 [update]
 [update.modrinth]
 mod-id = "CTXZvByu"
-version = "V7a0OxT9"
+version = "wwAsgkk2"
