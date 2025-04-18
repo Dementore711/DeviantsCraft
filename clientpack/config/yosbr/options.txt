@@ -7,19 +7,13 @@ joinedFirstServer:true
 maxFps:260
 onboardAccessibility:false
 operatorItemsTab:true
-resourcePacks:["vanilla","continuity:default","continuity:glass_pane_culling_fix","file/SodiumTranslations.zip","file/Chat Reporting Helper.zip","fabric","file/Mod Menu Helper.zip","file/Faithful 32x - 1.21.1.zip","file/Round-Trees-7.1-1.19+.zip","file/VanillaTweaks_r700713_MC1.21.x.zip","file/Default-Dark-Mode-1.20.2+-2024.6.0.zip","provihealth:rounded_bars","cobblemon:gyaradosjump","cobblemon:regionbiasforms","cobblemon:uniqueshinyforms","file/emissive-cobblemon-ores.zip","file/Cobblemon Interface v1.4.0.zip","file/E19 Cobblemon Minimap Icons.zip","file/RCT Trainers+ [1.6] v1.5.zip","file/AllTheMonsIgnited_Feb24.zip","file/Animon Voices (Ambient).zip","file/Fast Better Grass.zip"]
-incompatibleResourcePacks:["appleskin","badoptimizations","balm-fabric","basicweapons","bookshelf","carryon","clienttweaks","cobblemon_spawn_notification","enchdesc","guifollowers","modernfix","mru","patchouli","tweakeroo","watut","waystones","xaerominimap","xaeroworldmap","yet_another_config_lib_v3","file/Round-Trees-7.1-1.19+.zip"]
+resourcePacks:["vanilla","continuity:default","continuity:glass_pane_culling_fix","file/SodiumTranslations.zip","file/Chat Reporting Helper.zip","fabric","file/Mod Menu Helper.zip","file/Faithful 32x - 1.21.1.zip","file/Round-Trees-7.1-1.19+.zip","file/VanillaTweaks_r700713_MC1.21.x.zip","file/Default-Dark-Mode-1.20.2+-2024.6.0.zip","provihealth:rounded_bars","file/Fast Better Grass.zip"]
+incompatibleResourcePacks:["appleskin","badoptimizations","balm-fabric","basicweapons","bookshelf","carryon","clienttweaks","enchdesc","guifollowers","modernfix","mru","patchouli","tweakeroo","watut","waystones","xaerominimap","xaeroworldmap","yet_another_config_lib_v3","file/Round-Trees-7.1-1.19+.zip"]
 simulationDistance:6
 skipMultiplayerWarning:true
 telemetryOptInExtra:false
 tutorialStep:none
 key_key.saveToolbarActivator:key.keyboard.unknown
-key_key.hotbar.1:key.keyboard.unknown
-key_key.hotbar.2:key.keyboard.unknown
-key_key.hotbar.3:key.keyboard.unknown
-key_key.hotbar.4:key.keyboard.unknown
-key_key.hotbar.5:key.keyboard.unknown
-key_key.hotbar.6:key.keyboard.unknown
 key_zoomify.key.zoom:key.keyboard.c
 key_zoomify.key.zoom.secondary:key.keyboard.unknown
 key_iris.keybind.reload:key.keyboard.unknown
@@ -35,12 +29,6 @@ key_key.clienttweaks.hideOffhandItem:key.keyboard.unknown
 key_key.clienttweaks.disableStepAssist:key.keyboard.unknown
 key_key.clienttweaks.disableLogStripping:key.keyboard.unknown
 key_key.more_cobblemon_tweaks.open_config:key.keyboard.unknown
-key_key.cobblemon.hideparty:key.keyboard.6
-key_key.cobblemon.summary:key.keyboard.4
-key_key.cobblemon.downshiftparty:key.keyboard.3
-key_key.cobblemon.upshiftparty:key.keyboard.1
-key_key.cobblemon.throwpartypokemon:key.keyboard.2
-key_key.fightorflight.startbattle:key.keyboard.5
 key_key.entityculling.toggle:key.keyboard.unknown
 key_equipmentcompare.key.showTooltips:key.keyboard.right.shift
 key_key.fabricskyboxes.toggle:key.keyboard.unknown
@@ -54,7 +42,7 @@ key_key.optigui.inspect:key.keyboard.unknown
 key_ping-wheel.key.ping-location:key.keyboard.r
 key_ping-wheel.key.open-settings:key.keyboard.unknown
 key_ping-wheel.key.name-labels:key.keyboard.unknown
-key_key.presencefootsteps.settings:key.keyboard.f10
+key_key.presencefootsteps.settings:key.keyboard.unknown
 key_key.presencefootsteps.toggle:key.keyboard.unknown
 key_soundboard.keybinds.browser:key.keyboard.unknown
 key_soundboard.keybinds.cancel:key.keyboard.unknown

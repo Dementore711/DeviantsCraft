@@ -1,0 +1,13 @@
+name = "Countered's Terrain Slabs"
+filename = "countereds_terrain_slabs-1.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SJu6sklj/versions/CJEsweVq/countereds_terrain_slabs-1.3.0.jar"
+hash-format = "sha512"
+hash = "eedadc41c53d13a1f141b0af5a9ff72d0331ad86415f8fd8f1bfc08d7a1d5f908e4e33f8bd4436a1613413042690a65ad2bdf563830417e8bf5afaec4bc32b3c"
+
+[update]
+[update.modrinth]
+mod-id = "SJu6sklj"
+version = "CJEsweVq"
