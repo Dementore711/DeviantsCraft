@@ -1,15 +1,15 @@
 name = "DeviantsCraft"
 author = "Dementore711"
-version = "1.4.1"
+version = "1.5.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "0ad9974e72824894fb52841dc148202980900b04f47304a6a6534f6a337ee11b"
+hash = "3571dfc1c280b40387f207cc5a1a03cd53df764f888ae5833c02efc26a28f44e"
 
 [versions]
-fabric = "0.16.10"
+fabric = "0.16.13"
 minecraft = "1.21.1"
 
 [options]
