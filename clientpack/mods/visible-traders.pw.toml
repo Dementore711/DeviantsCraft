@@ -1,13 +1,13 @@
 name = "Visible Traders"
-filename = "VisibleTraders-0.0.7.1.jar"
+filename = "VisibleTraders-0.0.9+1.21-1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/AhllI99f/versions/zZngOHxX/VisibleTraders-0.0.7.1.jar"
+url = "https://cdn.modrinth.com/data/AhllI99f/versions/3TglBQPJ/VisibleTraders-0.0.9%2B1.21-1.21.1.jar"
 hash-format = "sha512"
-hash = "03da90443acd46a22084c6e85ef57d4c80e7ed75350607bde612dd21560cd94f79ce8cd0113d81efc59e6314e3250f8d2ac32637de2457670fc5aa9ac10d3e1d"
+hash = "6f9371d9ef92943687173a96ac3381e701940dd788e1edc2b3cf003cbd7db3c0575a6a161996630bbd53ba921d1d4b2eac570ecb9f4030e169e6c30b33b04f0b"
 
 [update]
 [update.modrinth]
 mod-id = "AhllI99f"
-version = "zZngOHxX"
+version = "3TglBQPJ"

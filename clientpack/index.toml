@@ -38,7 +38,7 @@ hash = "ce3ac8ff936a42cfb78296b815e69aa74983f2de5000a32e9791ebde26c299b3"
 
 [[files]]
 file = "config/simpleupdatechecker_modpack.json"
-hash = "b8ae9fdb7756335de9d452316bf952d950df883e8f89f24be356378c2409cf71"
+hash = "6ef2a8777d9afd1595f828766bd6389ba6b6c582639aa5b372f2badaf89fb41f"
 
 [[files]]
 file = "config/tweakeroo.json"
@@ -171,7 +171,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "5041d4be9d64017c7891f46878b7fa0d528c277e45c1d5e6be74b22abead7028"
+hash = "170ff7547a7c4d4f23b80360e41e5d4a837f684812088df6df5b1b8e510174e2"
 metafile = true
 
 [[files]]
@@ -201,7 +201,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "9d1cbb1985de93e2ee506a3aa7a36b4489a35a735ea2c4e090bbf58b7cc29b09"
+hash = "ef031e859a6f4fc358334863d71fd87a3107924ed40ec8e380600a509886eee2"
 metafile = true
 
 [[files]]
@@ -226,7 +226,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-combat.pw.toml"
-hash = "ac2f2661d24bf5b143a54e2dea96f9266e9bb5041e3ec7df69f22a28e9c0ff7b"
+hash = "72d7715e49304c52157a70b6ca8c8f2f4de42e106dd21ac6bc0c0da22ac6504a"
 metafile = true
 
 [[files]]
@@ -266,7 +266,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "250325230187d9c6251e24091d6396ac54d73601e04c96ca5be0af864623a7c5"
+hash = "68eea01a09b45caa9db73aff2ebf6b9cbc6a4029738b5fe6568b52460109275b"
 metafile = true
 
 [[files]]
@@ -291,7 +291,7 @@ metafile = true
 
 [[files]]
 file = "mods/chatpatches.pw.toml"
-hash = "384e3fc22ff7d5330be8b99fb0d59dde352f7fdf551808f16af2816b3ce09a8c"
+hash = "1eec27b7091d9a5e3ba8c7c5a84790fa15f52c1082173c282c07ccd842f69cb9"
 metafile = true
 
 [[files]]
@@ -375,11 +375,6 @@ hash = "225747eea8d2f9d3103f75e48377502985a856dc7b52994e1851525c1d68ad68"
 metafile = true
 
 [[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "007ca3fb8a617776705f8f38eab60a286fed6426a0ee1d792af6814f1bc24174"
-metafile = true
-
-[[files]]
 file = "mods/draggable-lists.pw.toml"
 hash = "50de1919e6cc3104a4a2557b0644c15f5a56722cf76a19b194ec6ecf61bcae13"
 metafile = true
@@ -451,7 +446,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "9ee84bdf71ae7963fabc99e8bb44acb72334d281b02ddac913e25daf7b81c143"
+hash = "7e27ab32357a80c066e6cdfabafc87f31f778a1ebaefe03f82e38d0763de760b"
 metafile = true
 
 [[files]]
@@ -691,7 +686,7 @@ metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
-hash = "e738806b1099f2b4b950ec57816582f3b7afd7a0074a250e3f120aa78350bc7e"
+hash = "60a3d23eb73106ecb6ba5a391d4539e3557cbd9b1f3611a2de08052155d78b3a"
 metafile = true
 
 [[files]]
@@ -706,7 +701,7 @@ metafile = true
 
 [[files]]
 file = "mods/particular.pw.toml"
-hash = "7d44aac0137dc9ca5de82b350e1e2602db35f599874627477a42d6e64e6b9403"
+hash = "9bceeadea46405d869a5b781efb109ac9fd7b4455c9c536092ccc93a135bad96"
 metafile = true
 
 [[files]]
@@ -761,7 +756,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "fb8c82bd41ae3eccb939cc7dae2d805171d7575ccfc6788591e96ab4097655a0"
+hash = "f55842e2485d7be3fcd497cf0e5d003a72a859bc0607c3b7d93b600b6eea4a47"
 metafile = true
 
 [[files]]
@@ -786,7 +781,7 @@ metafile = true
 
 [[files]]
 file = "mods/remote-player-waypoints-for-xaeros-map.pw.toml"
-hash = "fd529e1414bd356d8e405a877bc9a97981fcc4bc94d67d0d7ca62aa250000ab7"
+hash = "e3378ecbbf4fa454c4bfb24537dcf4c7638f63f60be94a62f922f8a1d8a84913"
 metafile = true
 
 [[files]]
@@ -821,7 +816,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "a0882efec4154408daa410077e66293a8da4a8ffaf1610fdd4209eae5bc4d729"
+hash = "3f74bba2fa702257f073f185246d70109e7aa6a464084382f75ec91a4c9b2ac1"
 metafile = true
 
 [[files]]
@@ -896,7 +891,7 @@ metafile = true
 
 [[files]]
 file = "mods/visible-traders.pw.toml"
-hash = "5d3eb4c33ee3b5b9d77d775e18aa40efa11440567f0aa9aae9cf830b36803469"
+hash = "7a49543bfe8a9f859d9091caaf682c384f9dea0fd3b5d3cd87beb9c93928a7aa"
 metafile = true
 
 [[files]]
@@ -921,7 +916,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "7bbc28f5dd1e6bf03daa3e5ace0584830fbdc2c42a8ee97105b31a5fbc155e53"
+hash = "d85f6dfd5a953ff4410c792cb1462cdbb05963a2cdb62d32920a564968283ec3"
 metafile = true
 
 [[files]]
@@ -980,7 +975,7 @@ hash = "ccb68e290daa8f91acd26745a3ffccf714ba2e234ae5cc61056fad0b171491ae"
 
 [[files]]
 file = "resourcepacks/Translations_for_Sodium.pw.toml"
-hash = "c33318d1519a336436896a02ce71378b75cb97e9786c7f7c47cb716b50e483a5"
+hash = "e375e80903c5092e7d25f338d1485f570b3b46da722897fd771169b3d5fce61d"
 metafile = true
 
 [[files]]
