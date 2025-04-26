@@ -5,7 +5,7 @@
 	pikehornSpawnWeight: 1,
 	lightningChaserSpawnWeight: 0,
 	// Defines a chance of Lightning Chaser spawning near player during thunderstorms each 30 seconds (1200 ticks)
-	lightningChaserThunderstormSpawnChance: 10,
+	lightningChaserThunderstormSpawnChance: 15,
 	// Amount of time (in ticks) that must pass before Lightning Chaser can attempt to spawn near the same player
 	lightningChaserThunderstormSpawnTimerCooldown: 24000,
 	// SPAWN GROUP CAPACITIES
@@ -23,7 +23,7 @@
 	lightningChaserMaxGroupSize: 1,
 	// BEHAVIOUR 
 	// Possible values: ALL, TAMED, DISABLED
-	moleclawGriefing: "TAMED",
+	moleclawGriefing: "DISABLED",
 	lightningChaserGriefing: "DISABLED",
 	blockDropChance: 100,
 	dragonMadness: false

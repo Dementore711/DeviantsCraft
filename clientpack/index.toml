@@ -38,7 +38,11 @@ hash = "ce3ac8ff936a42cfb78296b815e69aa74983f2de5000a32e9791ebde26c299b3"
 
 [[files]]
 file = "config/simpleupdatechecker_modpack.json"
-hash = "6ef2a8777d9afd1595f828766bd6389ba6b6c582639aa5b372f2badaf89fb41f"
+hash = "5876887c7eefe4797f2378ed557fbd6c355b4770bf251f69e9ef70e83c8efa46"
+
+[[files]]
+file = "config/talkingheads.json"
+hash = "45efd48fa64140eca60089becf42e3cd8f57286d1051e7163912a2497bf911ae"
 
 [[files]]
 file = "config/tweakeroo.json"
@@ -46,7 +50,7 @@ hash = "bedb40cfdccfdc20a42fbddf95a297035676b8b5c71416062cb32d0f2c76e47d"
 
 [[files]]
 file = "config/uselessreptile.json5"
-hash = "ecb57f7da87c7ed93a26a6307f1a1eb906ab27d7f8f93c3385c44876b536c237"
+hash = "0ee8ede3287a17ccf0663f07a4ed4b8442e2c30903bf766d8110545d173859dd"
 
 [[files]]
 file = "config/uselessreptile_client.json5"
@@ -66,7 +70,7 @@ hash = "e625cc84399ba974a76980bad9b0e570cea63844c8f85f834f5ad0f7a53bc779"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "36dc1e6bb7fbdc89675a44edb7df6a9744b41af53012fc3d8aecaea135c3fa96"
+hash = "d3405d9521a6461be45a34e74c479e3db731d8a3816dbf404d57a57b13dee7b3"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -154,7 +158,7 @@ hash = "37aaf52aa7545527c7ade71ac77ad2fcf6019995bf58b6ea1fe0f52949919d18"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "9b8bc9c1b1d5aee24b2740f09026270630747ea9ca9380c1523b75a90f209f6c"
+hash = "190a37a037aa1400c3c4dd09bb98f7c5a6786f492e93e37da093fd0c0f5a349d"
 
 [[files]]
 file = "credits.txt"
@@ -655,11 +659,6 @@ hash = "e45258d06c077c76bde2aa31ab2c91f329015f42bf0336d38d33fa2cfdff8f4a"
 metafile = true
 
 [[files]]
-file = "mods/natdertale-auto-third-person.pw.toml"
-hash = "131419643d168ce0dd730138cc3037ff3f07ab3d60d5ab03d78216bf6860ff57"
-metafile = true
-
-[[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "f53b91397b8a969e843af8772db448ab1c9bc556233a3b26266c52cfa77950fe"
 metafile = true
@@ -855,6 +854,11 @@ hash = "67426301d9800e7ff21706b7c05771b2db4a7004f4e3d5fb7bce8273df30c5e9"
 metafile = true
 
 [[files]]
+file = "mods/talkingheads.pw.toml"
+hash = "74606f49f2f6dc73f78709eb1b5bb490b38a78445024b58d7ce8b2ea103cf523"
+metafile = true
+
+[[files]]
 file = "mods/tax-free-levels.pw.toml"
 hash = "fcd92853a728b92cc82d6de0adcb42b0463c6825069e30a07c707fc571dc119a"
 metafile = true
@@ -887,6 +891,11 @@ metafile = true
 [[files]]
 file = "mods/tweakeroo.pw.toml"
 hash = "62769ec5701008e3897061dafbf805c15db0ea9c202179cb10bbd2fd552aaa26"
+metafile = true
+
+[[files]]
+file = "mods/useless-reptile.pw.toml"
+hash = "351608ab9dbd769884ed2c87e3d3f103356b6c2210a37aa19ba8d8fa8f3f6a08"
 metafile = true
 
 [[files]]
