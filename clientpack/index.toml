@@ -304,6 +304,11 @@ hash = "1eec27b7091d9a5e3ba8c7c5a84790fa15f52c1082173c282c07ccd842f69cb9"
 metafile = true
 
 [[files]]
+file = "mods/cicada.pw.toml"
+hash = "eb995fc30ad291a46e2b22bee640b9a315c44d5a76ce6fab2e03cfbfb8b8c429"
+metafile = true
+
+[[files]]
 file = "mods/citresewn.pw.toml"
 hash = "becd2f179199c9856f2f742d4d7ddf2faa0a407d5216b1c8ecd482aea63c6afb"
 metafile = true
@@ -381,6 +386,11 @@ metafile = true
 [[files]]
 file = "mods/difficulty.pw.toml"
 hash = "225747eea8d2f9d3103f75e48377502985a856dc7b52994e1851525c1d68ad68"
+metafile = true
+
+[[files]]
+file = "mods/do-a-barrel-roll.pw.toml"
+hash = "24d6c27315866a6dd672daef2f844b1b202aa173953824cb3586bed8667f3d5c"
 metafile = true
 
 [[files]]
@@ -561,11 +571,6 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "e59c8d59779df664e713cdcb32f2f85481f55425789e449ec8bc97b9389b34ab"
-metafile = true
-
-[[files]]
-file = "mods/keybindsgaloreplus.pw.toml"
-hash = "2d5de4031df61f7eb475c2733fe45d91ef9f5681bc1ad6110f96a91258dd86e2"
 metafile = true
 
 [[files]]
